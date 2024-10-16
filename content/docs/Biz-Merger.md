@@ -175,7 +175,6 @@ toc: true
 <div class="row flex-xl-wrap pb-4">
     <div class="col-md-4 col-12 py-2">
         <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
-            <img src="../../images/berty_argiyantari.png" class="card-img-top" alt="Dr. Berty Argiyantari">
             <div class="card-body p-0 content">
                 <h5 class="fs-5 fw-semibold card-title mb-1">Dr. Berty Argiyantari</h5>
                 <p class="card-text">
@@ -186,7 +185,6 @@ toc: true
     </div>
     <div class="col-md-4 col-12 py-2">
         <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
-            <img src="../../images/risman_adnan.png" class="card-img-top" alt="Dr. Risman Adnan">
             <div class="card-body p-0 content">
                 <h5 class="fs-5 fw-semibold card-title mb-1">Dr. Risman Adnan</h5>
                 <p class="card-text">
@@ -197,7 +195,6 @@ toc: true
     </div>
     <div class="col-md-4 col-12 py-2">
         <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
-            <img src="../../images/josephine_kusnadi.png" class="card-img-top" alt="Josephine Kusnadi">
             <div class="card-body p-0 content">
                 <h5 class="fs-5 fw-semibold card-title mb-1">Josephine Kusnadi</h5>
                 <p class="card-text">
