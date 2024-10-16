@@ -1,8 +1,8 @@
 ---
-weight: 999
-title: "Biz Merger"
-description: ""
-icon: "article"
+weight: 100
+title: "Mastering Mergers and Acquisitions"
+description: "GenAI Learning via Industry Best Practices"
+icon: "menu_book"
 date: "2024-10-15T15:46:16+07:00"
 lastmod: "2024-10-15T15:46:16+07:00"
 draft: false
@@ -19,15 +19,18 @@ toc: true
 
 {{% alert icon="📘" context="info" %}}
 <p style="text-align: justify;">
-"MLVR - Machine Learning via Rust" is a groundbreaking textbook that combines the theoretical rigor of machine learning with the modern capabilities of the Rust programming language. Tailored for both students and professionals, this book offers a comprehensive and practical approach to mastering machine learning, with a strong emphasis on performance, safety, and concurrency—core strengths of Rust. Covering everything from classical models like linear regression and neural networks to advanced techniques such as AutoML and reinforcement learning, "MLVR" provides clear explanations, step-by-step coding guides, and real-world applications. By the end of this book, readers will be well-equipped to implement, optimize, and deploy machine learning models effectively using Rust, making it an essential resource for those looking to advance their skills in this evolving field.
+    <strong>Mastering Mergers and Acquisitions</strong> is a comprehensive guide tailored for business leaders, professionals, and strategists navigating the complex realm of mergers and acquisitions (M&A). Whether you're involved in corporate development, investment banking, or business consulting, this book provides an all-encompassing understanding of the M&A process—from foundational concepts to the nuanced challenges of post-merger integration and performance measurement. Combining academic rigor with real-world case studies and best practices, it offers a seamless blend of theory and actionable strategies, equipping you to succeed in M&A.
 </p>
+
+<!-- [Content truncated for brevity] -->
+
 {{% /alert %}}
 
 <div class="row justify-content-center my-4">
     <div class="col-md-8 col-12">
         <div class="card p-4 text-center support-card">
-            <h4 class="mb-3" style="color: #00A3C4;">SUPPORT US ❤️</h4>
-            <p class="card-text">
+            <h4 class="mb-3" style="color: #3056d5;">SUPPORT US ❤️</h4>
+            <p class="card-text text-center">
                 Support our mission by purchasing the companion book at your preferred platform.
             </p>
             <div class="d-flex justify-content-center mb-3 flex-wrap">
@@ -46,8 +49,8 @@ toc: true
 
 <style>
     .btn-outline-support {
-        color: #00A3C4;
-        border: 2px solid #00A3C4;
+        color: #3056d5;
+        border: 2px solid #3056d5;
         background-color: transparent;
         display: flex;
         flex-direction: column;
@@ -58,9 +61,9 @@ toc: true
         transition: all 0.3s ease-in-out; /* Smooth transition for hover effects */
     }
     .btn-outline-support:hover {
-        background-color: #00A3C4;
+        background-color: #3056d5;
         color: white;
-        border-color: #00A3C4;
+        border-color: #3056d5;
     }
     .support-logo-image {
         max-width: 100%;
@@ -78,10 +81,150 @@ toc: true
         transition: box-shadow 0.3s ease-in-out;
     }
     .support-card:hover {
-        box-shadow: 0 0 20px #00A3C4; /* Glowing border effect when hovered */
+        box-shadow: 0 0 20px #3056d5; /* Glowing border effect when hovered */
     }
 </style>
 
+<center>
+
+<center>
+
+## 🤝 Collaboration
+
+</center>
+
+<div class="row justify-content-center my-4">
+    <div class="col-md-8 col-12">
+        <div class="card p-4 text-center collaboration-card">
+            <h4 class="mb-3" style="color: #FF5722;">OUR PARTNERS 🤝</h4>
+            <p class="card-text text-center">
+                We are honored to collaborate with SBM ITB and Inoversi in the creation of this book. This partnership combines academic excellence with industry expertise to provide a resource that is both theoretically robust and practically applicable.
+            </p>
+            <div class="d-flex justify-content-center mb-3 flex-wrap">
+                <a href="https://www.sbm-itb.ac.id/" target="_blank" class="btn btn-lg btn-outline-collaboration m-2 collaboration-btn">
+                    <img src="/images/sbm-logo.png" alt="SBM ITB Logo" class="collaboration-logo-image">
+                    <span class="collaboration-btn-text">SBM ITB</span>
+                </a>
+                <a href="https:/inoversi.id/" target="_blank" class="btn btn-lg btn-outline-collaboration m-2 collaboration-btn">
+                    <img src="/images/inoversi-logo.png" alt="Inoversi Logo" class="collaboration-logo-image">
+                    <span class="collaboration-btn-text">Inoversi</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    /* Styles for the Collaboration Section */
+    .btn-outline-collaboration {
+        color: #FF5722;
+        border: 2px solid #FF5722;
+        background-color: transparent;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px; /* Slightly less padding than Support Us for variation */
+        width: 300px; /* Slightly narrower width */
+        text-align: center;
+        transition: all 0.3s ease-in-out;
+        border-radius: 8px; /* Rounded corners for a fresh look */
+        background-image: linear-gradient(45deg, transparent 50%, rgba(255, 87, 34, 0.1) 50%);
+        background-size: 200% 100%;
+    }
+    .btn-outline-collaboration:hover {
+        background-color: #FF5722;
+        color: white;
+        border-color: #FF5722;
+        background-position: right center;
+        background-image: linear-gradient(45deg, #FF5722 50%, transparent 50%);
+    }
+    .collaboration-logo-image {
+        max-width: 100%;
+        height: auto;
+        margin-bottom: 12px; /* Less space than Support Us */
+        transition: transform 0.3s;
+    }
+    .collaboration-logo-image:hover {
+        transform: scale(1.05); /* Slight zoom on hover */
+    }
+    .collaboration-btn-text {
+        font-weight: bold;
+        font-size: 1rem;
+    }
+    .collaboration-card {
+        background-color: #FFF3E0; /* Light orange background for distinction */
+        transition: box-shadow 0.3s ease-in-out;
+    }
+    .collaboration-card:hover {
+        box-shadow: 0 0 20px #FF5722; /* Different color glow */
+    }
+    .card-text {
+        font-size: 0.95rem;
+        text-align: justify;
+    }
+    .card-title {
+        font-size: 1.1rem;
+        margin-bottom: 0.5rem;
+    }
+</style>
+
+## 👥 Book Authors
+
+</center>
+
+<div class="row flex-xl-wrap pb-4">
+    <div class="col-md-4 col-12 py-2">
+        <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
+            <img src="../../images/berty_argiyantari.png" class="card-img-top" alt="Dr. Berty Argiyantari">
+            <div class="card-body p-0 content">
+                <h5 class="fs-5 fw-semibold card-title mb-1">Dr. Berty Argiyantari</h5>
+                <p class="card-text">
+                    Dr. Berty Argiyantari is the CEO of MOSTRANS and a respected academic, currently lecturing at the MBA School of Business and Management ITB since 2021. She brings extensive experience in supply chain management, having served as Global Supply Chain Deputy Director at PT Kalbe Farma, Tbk from 2020 to 2022, and previously as Logistic Deputy Director at PT Enseval Putera Mega Trading. Her strategic expertise in procurement and sourcing was honed in roles such as Operational Procurement Manager and Strategic Sourcing Manager at PT Kalbe Farma Tbk. Dr. Berty also gained deep industry knowledge during her tenure as Procurement and PPIC Manager at Hexpharm Jaya Laboratories from 1999 to 2008.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 col-12 py-2">
+        <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
+            <img src="../../images/risman_adnan.png" class="card-img-top" alt="Dr. Risman Adnan">
+            <div class="card-body p-0 content">
+                <h5 class="fs-5 fw-semibold card-title mb-1">Dr. Risman Adnan</h5>
+                <p class="card-text">
+                    Dr. Risman Adnan is the Director of Digital Technology at PT Kalbe Farma Tbk, where he has been leading digital transformation initiatives since 2023. Prior to this role, he served as CTO at Samsung Research Indonesia from 2014 to 2022, spearheading technology advancements across multiple platforms. With over a decade at Microsoft, he held key roles as Tech Platform Director at Microsoft Indonesia (2008-2014) and Senior Technical Evangelist for Microsoft Asia Pacific (2004-2008). Dr. Risman began his career as Lead Software Developer at Praisindo, gaining deep technical expertise from 2000 to 2004.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 col-12 py-2">
+        <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
+            <img src="../../images/josephine_kusnadi.png" class="card-img-top" alt="Josephine Kusnadi">
+            <div class="card-body p-0 content">
+                <h5 class="fs-5 fw-semibold card-title mb-1">Josephine Kusnadi</h5>
+                <p class="card-text">
+                    Josephine Kusnadi is a seasoned expert in business process innovation and consulting with over two decades of experience across various industries. She served as Service Innovation - IP & Innovation lead at Samsung Research Indonesia from 2012 to 2021, driving advancements in intellectual property and technology innovation. Before that, she worked as a Senior Consultant at 168 Solution from 2010 to 2012, and as Business Process Manager at PT Natrindo Telepon Selular (AXIS) from 2005 to 2010, where she played a critical role in improving operational efficiencies. Her career began in consulting, working with The World Bank from 2003 to 2005 and as a CRM Consultant at Arthur Andersen Business Consulting from 2000 to 2003.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    /* Additional styles for the Collaboration and Authors sections */
+    .card-text {
+        font-size: 0.9rem;
+        text-align: justify;
+    }
+    .card-title {
+        font-size: 1.1rem;
+        margin-bottom: 0.5rem;
+    }
+    .features {
+        transition: transform 0.3s;
+    }
+    .features:hover {
+        transform: translateY(-10px);
+    }
+</style>
 
 <center>
 
@@ -91,7 +234,7 @@ toc: true
 
 <div class="row justify-content-center">
     <div class="col-md-4 col-12 py-2">
-        <a class="text-decoration-none text-reset" href="https://rantai.dev/">
+        <a class="text-decoration-none text-reset" href="https://rantai.dev/" target="_blank">
             <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1 text-center">
                 <img src="/images/Logo.png" class="card-img-top" alt="Rantai Logo">
             </div>
@@ -101,95 +244,14 @@ toc: true
 
 {{% alert icon="🚀" context="success" %}}
 <p style="text-align: justify;">
-RantAI is a dynamic Indonesian tech startup dedicated to advancing technology through the innovative use of Rust programming. Originating from the collaborative efforts of Telkom University and the Data Science Center of University of Indonesia, RantAI initially focused on scientific computation publishing, leveraging Rust’s capabilities to push the boundaries of computational science. RantAI's mid-term vision is to expand into technology consulting, offering expert guidance on Rust-based solutions. Looking ahead, RantAI aims to develop a cutting-edge digital twin simulation platform, designed to address complex scientific problems with precision and efficiency. Through these strategic endeavors, RantAI is committed to transforming how scientific challenges are approached and solved using advanced technology.
+RantAI is a forward-thinking Indonesian tech startup focused on revolutionizing the technology landscape, with a particular emphasis on Rust programming and its applications in business and industry. Originally founded through collaborations between Telkom University and the University of Indonesia’s Data Science Center, RantAI began its journey by specializing in scientific computation publishing. Today, RantAI’s focus is expanding to offer consulting services on Rust-based solutions, providing businesses with cutting-edge, technology-driven strategies to improve efficiency and innovation.
+</p>
+
+<p style="text-align: justify;">
+Currently collaborating with institutions like SBM ITB (School of Business and Management ITB) and Inoversi, RantAI is positioned at the intersection of technology and business transformation. Inoversi, founded in 2024, is a premier training organization dedicated to fostering innovation in business. It offers a wide range of services, including interactive webinars, high-quality e-books, and e-learning platforms that enhance the learning experience for professionals. With customized training, public workshops, and expert-led consulting services, Inoversi aims to empower businesses with the knowledge and tools needed to thrive in today’s competitive landscape.
+</p>
+
+<p style="text-align: justify;">
+RantAI’s vision aligns with this mission by providing cutting-edge solutions, including a future-focused digital twin simulation platform designed to solve complex business challenges. Together, these strategic partnerships are helping businesses leverage innovation for long-term success, operational resilience, and sustainable growth. RantAI is committed to bringing transformative technologies to the forefront of business strategy, ensuring that companies stay ahead of the curve.
 </p>
 {{% /alert %}}
-
-<center>
-
-## 👥 MLVR Authors
-
-</center>
-
-<div class="row flex-xl-wrap pb-4">
-    <div class="col-md-4 col-12 py-2">
-        <a class="text-decoration-none text-reset" href="https://www.linkedin.com/in/shirologic/">
-            <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1 text-center">
-                <img src="../../images/P8MKxO7NRG2n396LeSEs-1EMgqgjvaVvYZ7wbZ7Zm-v1.png" class="card-img-top" alt="Evan Pradipta Hardinatha">
-                <div class="card-body p-0 content">
-                    <p class="fs-5 fw-semibold card-title mb-1">Evan Pradipta Hardinatha</p>
-                </div>
-            </div>
-        </a>
-    </div>
-    <div class="col-md-4 col-12 py-2">
-        <a class="text-decoration-none text-reset" href="https://www.linkedin.com/in/jaisy-arasy/">
-            <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1 text-center">
-                <img src="../../images/P8MKxO7NRG2n396LeSEs-cHU7kr5izPad2OAh1eQO-v1.png" class="card-img-top" alt="Jaisy Malikulmulki Arasy">
-                <div class="card-body p-0 content">
-                    <p class="fs-5 fw-semibold card-title mb-1">Jaisy Malikulmulki Arasy</p>
-                </div>
-            </div>
-        </a>
-    </div>
-    <div class="col-md-4 col-12 py-2">
-        <a class="text-decoration-none text-reset" href="https://www.linkedin.com/in/chevhan-walidain/">
-            <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1 text-center">
-                <img src="../../images/P8MKxO7NRG2n396LeSEs-UTFiCKrYqaocqib3YNnZ-v1.png" class="card-img-top" alt="Chevan Walidain">
-                <div class="card-body p-0 content">
-                    <p class="fs-5 fw-semibold card-title mb-1">Chevan Walidain</p>
-                </div>
-            </div>
-        </a>
-    </div>
-    <div class="col-md-4 col-12 py-2">
-        <a class="text-decoration-none text-reset" href="https://www.linkedin.com/in/daffasyqarrr/">
-            <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1 text-center">
-                <img src="../../images/P8MKxO7NRG2n396LeSEs-5PupP02YXKw6a9pcZXDM-v1.png" class="card-img-top" alt="Daffa Asyqar Ahmad Khalisheka">
-                <div class="card-body p-0 content">
-                    <p class="fs-5 fw-semibold card-title mb-1">Daffa Asyqar Ahmad Khalisheka</p>
-                </div>
-            </div>
-        </a>
-    </div>
-    <div class="col-md-4 col-12 py-2">
-        <a class="text-decoration-none text-reset" href="https://www.linkedin.com/in/idham-multazam/">
-            <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1 text-center">
-                <img src="../../images/P8MKxO7NRG2n396LeSEs-Ra9qnq6ahPYHkvvzi71z-v1.png" class="card-img-top" alt="Idham Hanif Multazam">
-                <div class="card-body p-0 content">
-                    <p class="fs-5 fw-semibold card-title mb-1">Idham Hanif Multazam</p>
-                </div>
-            </div>
-        </a>
-    </div>
-    <div class="col-md-4 col-12 py-2">
-        <a class="text-decoration-none text-reset" href="https://www.linkedin.com/in/farrel-rassya-1b6991257/">
-            <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1 text-center">
-                <img src="../../images/farrel-rasya.png" class="card-img-top" alt="Farrel Rasya">
-                <div class="card-body p-0 content">
-                    <p class="fs-5 fw-semibold card-title mb-1">Farrel Rasya</p>
-                </div>
-            </div>
-        </a>
-    </div>
-    <div class="col-md-4 col-12 py-2">
-        <a class="text-decoration-none text-reset" href="http://www.linkedin.com">
-            <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1 text-center">
-                <img src="../../images/P8MKxO7NRG2n396LeSEs-0n0SFhW3vVnO5VXX9cIX-v1.png" class="card-img-top" alt="Razka Athallah Adnan">
-                <div class="card-body p-0 content">
-                    <p class="fs-5 fw-semibold card-title mb-1">Razka Athallah Adnan</p>
-                </div>
-            </div>
-        </a>
-    </div>
-    <div class="col-md-4 col-12 py-2">
-        <a class="text-decoration-none text-reset" href="http://linkedin.com">
-            <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1 text-center">
-                <img src="../../images/P8MKxO7NRG2n396LeSEs-vto2jpzeQkntjXGi2Wbu-v1.png" class="card-img-top" alt="Raffy Aulia Adnan">
-                <div class="card-body p-0 content">
-                    <p class="fs-5 fw-semibold card-title mb-1">Raffy Aulia Adnan</p>
-                </div>
-            </div>
-        </a>
-    </div>
-</div>
