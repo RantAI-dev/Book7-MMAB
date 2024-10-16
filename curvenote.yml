@@ -1,0 +1,13 @@
+version: 1
+site:
+  title: Mastering Mergers and Acquisitions via Industry Best Practices
+  options:
+    logo_text: Mastering Mergers and Acquisitions via Industry Best Practices
+  nav:
+    - title: Mastering Mergers and Acquisitions via Industry Best Practices
+      url: /mastering-mergers-and-acquisitions-via-industry-be
+  actions:
+    - title: Learn More
+      url: https://curvenote.com/docs/web
+  domains:
+    - rismana-ma.curve.space

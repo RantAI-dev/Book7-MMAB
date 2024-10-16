@@ -1,0 +1,19 @@
+version: 1
+project:
+  title: Mastering Mergers and Acquisitions via Industry Best Practices
+  description: ''
+  short_title: ''
+  github: https://github.com/RantAI-dev/Book7-MMAB
+  authors:
+    - userId: UkR8ZX1I0lY4DNcav9EKF38zAzL2
+      nameParsed:
+        literal: Risman Adnan, Ph.D
+        given: Ph.D
+        family: Risman Adnan
+      name: Risman Adnan, Ph.D
+      corresponding: false
+      roles: []
+      affiliations: []
+      id: contributors-generated-uid-0
+  id: 5WeQ1hZHBs9V6t4cB9cO
+  remote: 5WeQ1hZHBs9V6t4cB9cO
