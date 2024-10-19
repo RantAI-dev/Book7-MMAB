@@ -9,14 +9,17 @@ katex: true
 draft: false
 toc: true
 ---
+{{% alert icon="📘" context="info" %}}
 <p style="text-align: justify;">
 <em>The oil and gas industry operates in a highly regulated environment, with complex legal frameworks that vary across regions and countries. Mergers and acquisitions (M&A) in this sector require a comprehensive understanding of both domestic and international laws, environmental regulations, and industry-specific legal requirements. This appendix provides a robust and comprehensive overview of key legal and regulatory references to guide stakeholders in navigating the complexities of M&A transactions in the oil and gas industry.</em>
 </p>
+{{% /alert %}}
+
 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-qegPEiXHDyetVS4vUUgS-v1.png" >}}
-        <p><span class="fw-bold">Figure 3:</span> <strong>Figure 2.3:</strong> Visualizing Post-Merger Synergies.</p>
+        <p><strong>Figure 2.3:</strong> Visualizing Post-Merger Synergies.</p>
     </div>
 </div>
 

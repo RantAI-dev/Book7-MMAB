@@ -9,16 +9,17 @@ katex: true
 draft: false
 toc: true
 ---
+
+{{% alert icon="📘" context="info" %}}
 <p style="text-align: justify;">
 <em>Mergers and acquisitions in the oil and gas industry present unique challenges due to the capital-intensive nature of the business, complex regulatory requirements, and the need for operational safety. A robust and comprehensive integration plan ensures a seamless transition while maximizing value from synergies. Below is a sample integration plan template designed specifically for the oil and gas sector. It covers key areas such as governance, operations, technology integration, human resources, and compliance with environmental and safety regulations.</em>
 </p>
-
-
+{{% /alert %}}
 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-DHziiDNcBL2obZOsWWtT-v1.png" >}}
-        <p><span class="fw-bold">Figure 2:</span> <strong>Figure 2.2:</strong> Strategic Objectives in M&A Planning.</p>
+        <p><strong>Figure 2.2:</strong> Strategic Objectives in M&A Planning.</p>
     </div>
 </div>
 

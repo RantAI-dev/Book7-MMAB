@@ -9,14 +9,17 @@ katex: true
 draft: false
 toc: true
 ---
+{{% alert icon="📘" context="info" %}}
 <p style="text-align: justify;">
 <em>Mergers and acquisitions (M&A) due diligence is a comprehensive assessment process that helps acquiring companies evaluate the potential risks and rewards of a transaction. A well-structured due diligence checklist ensures that all critical areas of the target company are analyzed before completing the deal. The following checklist provides an industry-standard guide for conducting thorough M&A due diligence across key areas such as financials, legal, operations, and ESG considerations.</em>
 </p>
+{{% /alert %}}
+
 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-KTdkKfgqcg3TNlE9qNyx-v1.png" >}}
-        <p><span class="fw-bold">Figure 1:</span> <strong>Figure 2.1:</strong> Target Prioritization of a Merger & Acquisitions.</p>
+        <p><strong>Figure 2.1:</strong> Target Prioritization of a Merger & Acquisitions.</p>
     </div>
 </div>
 

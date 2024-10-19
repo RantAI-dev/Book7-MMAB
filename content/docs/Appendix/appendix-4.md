@@ -9,9 +9,13 @@ katex: true
 draft: false
 toc: true
 ---
+
+{{% alert icon="📘" context="info" %}}
 <p style="text-align: justify;">
 <em>This glossary provides a robust and comprehensive set of terms that are frequently used in mergers and acquisitions (M&A) within the Digital and Oil & Gas industries. Understanding these key terms is essential for navigating complex M&A transactions, ensuring compliance, and unlocking synergies in these sectors.</em>
 </p>
+{{% /alert %}}
+
 
 #### **1. Acquisition**
 
