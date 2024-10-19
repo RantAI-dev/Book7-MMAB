@@ -12,9 +12,12 @@ toc: true
 {{% alert icon="💡" context="info" %}}
 <strong>"<em>In today’s global economy, successful cross-border M&A requires not only financial acumen but also a deep understanding of local markets, cultures, and regulatory environments. Companies that approach these deals with a global mindset and a commitment to integration will create lasting value.</em>" — Dominic Barton, Global Managing Partner Emeritus, McKinsey & Company.</strong>
 {{% /alert %}}
+
+{{% alert icon="📘" context="success" %}}
 <p style="text-align: justify;">
 <em>This chapter explores the challenges and opportunities associated with globalization and cross-border M&A. It covers key aspects such as navigating international regulations, managing cultural integration, and addressing currency risks. Companies that master these complexities can leverage cross-border M&A to expand their global presence, tap into new markets, and achieve sustainable growth while mitigating risks associated with international transactions.</em>
 </p>
+{{% /alert %}}
 
 ---
 # 21\. Introduction
@@ -29,7 +32,7 @@ Globalization drives cross-border M&A by enabling firms to access new markets an
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-Mo8K7omzpYlm2TSk7dhM-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 21.1:</strong> Strategy, driver, and challenges of cross-border M&A.</p>
+        <p><strong>Figure 21.1:</strong> Strategy, driver, and challenges of cross-border M&A.</p>
     </div>
 </div>
 
@@ -78,7 +81,7 @@ As globalization drives an increasing number of international deals, companies m
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-wnjAZHs9JmapneAESmJL-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 21.2:</strong> Complexity of cross-border M&A.</p>
+        <p><strong>Figure 21.2:</strong> Complexity of cross-border M&A.</p>
     </div>
 </div>
 
@@ -143,7 +146,7 @@ Cultural due diligence is an essential step in the M&A process, especially for c
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-PAEUBEKM3SaZ4OsiwDOS-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 21.3:</strong> Cultural sensitivities in cross-border M&A.</p>
+        <p><strong>Figure 21.3:</strong> Cultural sensitivities in cross-border M&A.</p>
     </div>
 </div>
 
@@ -192,7 +195,7 @@ Currency risk, or exchange rate risk, arises from the fluctuation in the value o
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-K4oX9sbOycfFjmbvRCzi-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 21.4:</strong> Managing risks in cross-border M&A.</p>
+        <p><strong>Figure 21.4:</strong> Managing risks in cross-border M&A.</p>
     </div>
 </div>
 

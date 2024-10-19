@@ -204,7 +204,7 @@ Here, the focus shifts toward the strategic value of capturing and institutional
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-HELTj4Q7dWW5KbqVr8Ix-v1.png" >}}
-        <p><strong>Figure 15.4</strong>: Key Steps to Enhance M&A Success through Lesson Learned.</p>
+        <p><strong>Figure 15.5</strong>: Key Steps to Enhance M&A Success through Lesson Learned.</p>
     </div>
 </div>
 
@@ -235,7 +235,7 @@ Moreover, knowledge management in M&A helps foster a culture of continuous impro
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-zqyyZP3zBsVAJEMpKnWt-v1.png" >}}
-        <p><strong>Figure 15.5</strong>: Overview of Knowledge Management Process.</p>
+        <p><strong>Figure 15.6</strong>: Overview of Knowledge Management Process.</p>
     </div>
 </div>
 

@@ -157,7 +157,7 @@ Mergers and acquisitions (M&A) are not simply transactional events but represent
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-CfCzQiG8kkZNEjDROpoN-v1.png" >}}
-        <p><strong>Figure 10.3:</strong> Funnel for long-term success in M&A.</p>
+        <p><strong>Figure 10.4:</strong> Funnel for long-term success in M&A.</p>
     </div>
 </div>
 
