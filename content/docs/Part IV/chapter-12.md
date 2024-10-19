@@ -3,8 +3,8 @@ weight: 1600
 title: "Chapter 12"
 description: "People and Culture"
 icon: "article"
-date: "2024-10-15T18:39:59.791225+07:00"
-lastmod: "2024-10-15T18:39:59.791244+07:00"
+date: "2024-10-19T16:11:32.368058+07:00"
+lastmod: "2024-10-19T16:11:32.368080+07:00"
 katex: true
 draft: false
 toc: true
@@ -12,9 +12,10 @@ toc: true
 {{% alert icon="💡" context="info" %}}
 <strong>"<em>The human side of M&A is often underestimated, but culture and people integration are where the real challenges lie. Success comes from aligning leadership, retaining talent, and fostering a culture of trust and collaboration.</em>" — Jennifer Morgan, Former Co-CEO, SAP.</strong>
 {{% /alert %}}
-<p style="text-align: justify;">
-<em>This chapter delves into the importance of managing the people and cultural aspects of mergers and acquisitions. It emphasizes the need for cultural due diligence, talent retention strategies, leadership alignment, and robust change management plans. By addressing these factors, companies can mitigate risks associated with employee disengagement, cultural clashes, and leadership misalignment, fostering a more cohesive and resilient organization post-merger.</em>
-</p>
+
+{{% alert icon="📘" context="success" %}}
+<p style="text-align: justify;"><em>This chapter delves into the importance of managing the people and cultural aspects of mergers and acquisitions. It emphasizes the need for cultural due diligence, talent retention strategies, leadership alignment, and robust change management plans. By addressing these factors, companies can mitigate risks associated with employee disengagement, cultural clashes, and leadership misalignment, fostering a more cohesive and resilient organization post-merger.</em></p>
+{{% /alert %}}
 
 ---
 # 12.1. Introduction
@@ -25,7 +26,7 @@ While financial and operational due diligence are essential in evaluating the vi
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-6mVMh6eewpPl5wxJcRTK-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 12.1:</strong> Elements of cultural integration in M&A.</p>
+        <p><strong>Figure 12.1:</strong> Elements of cultural integration in M&A.</p>
     </div>
 </div>
 
@@ -62,7 +63,7 @@ While traditional due diligence focuses on tangible metrics such as financial pe
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-QOMaFodR3DvfAUripUAz-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 12.2:</strong> Cultural due diligence in M&A.</p>
+        <p><strong>Figure 12.2:</strong> Cultural due diligence in M&A.</p>
     </div>
 </div>
 
@@ -107,7 +108,7 @@ Retaining key talent—particularly high performers and individuals in leadershi
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-VwPZ4rBOVAIMfGSGuQdl-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 12.3:</strong> Talent retention aspects of M&A.</p>
+        <p><strong>Figure 12.3:</strong> Talent retention aspects of M&A.</p>
     </div>
 </div>
 
@@ -152,7 +153,7 @@ Leadership alignment at the executive level is fundamental to the entire integra
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-wR3JTmoPYJcoygd9gg44-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 12.4:</strong> Leadership alignment in M&A.</p>
+        <p><strong>Figure 12.4:</strong> Leadership alignment in M&A.</p>
     </div>
 </div>
 
@@ -197,7 +198,7 @@ Mergers inevitably bring uncertainty and anxiety for employees across all levels
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-OmCrweAbt2NXqc58CKUy-v1.png" >}}
-        <p><span class="fw-bold ">Figure 5:</span> <strong>Figure 12.5:</strong> Key components of effective change management in M&A.</p>
+        <p><strong>Figure 12.5:</strong> Key components of effective change management in M&A.</p>
     </div>
 </div>
 

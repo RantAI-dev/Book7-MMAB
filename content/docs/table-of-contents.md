@@ -22,7 +22,7 @@ toc: true
 
 ### **Main Sections**
 
-- [**Introduction**](/docs/introduction/)
+- [**Introduction**](/docs/biz-merger/)
 - [**Preface**](/docs/preface/)
 - [**Foreword**](/docs/foreword/)
 

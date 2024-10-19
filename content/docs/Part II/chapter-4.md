@@ -3,8 +3,8 @@ weight: 800
 title: "Chapter 4"
 description: "Strategic Planning Lens in Due Diligence"
 icon: "article"
-date: "2024-10-15T18:39:59.862257+07:00"
-lastmod: "2024-10-15T18:39:59.862281+07:00"
+date: "2024-10-19T16:11:32.430163+07:00"
+lastmod: "2024-10-19T16:11:32.430183+07:00"
 katex: true
 draft: false
 toc: true
@@ -12,9 +12,10 @@ toc: true
 {{% alert icon="💡" context="info" %}}
 <strong>"<em>A successful M&A is not just about financial gain but about how well it aligns with the company’s long-term strategic goals. Without this alignment, even the most lucrative deals can fall apart in the long run.</em>" — David Harding, Bain & Company M&A Expert</strong>
 {{% /alert %}}
-<p style="text-align: justify;">
-<em>This chapter explores how aligning M&A with a company’s corporate vision and mission serves as a critical driver of success. By setting clear objectives, identifying strategic fit, and creating value through synergies, companies can foster sustainable growth. The chapter also discusses the importance of cultural alignment, post-merger integration, and risk mitigation to ensure that mergers and acquisitions not only meet financial targets but also strengthen the company’s long-term strategic direction.</em>
-</p>
+
+{{% alert icon="📘" context="success" %}}
+<p style="text-align: justify;"><em>This chapter explores how aligning M&A with a company’s corporate vision and mission serves as a critical driver of success. By setting clear objectives, identifying strategic fit, and creating value through synergies, companies can foster sustainable growth. The chapter also discusses the importance of cultural alignment, post-merger integration, and risk mitigation to ensure that mergers and acquisitions not only meet financial targets but also strengthen the company’s long-term strategic direction.</em></p>
+{{% /alert %}}
 
 ---
 # 4.1. The Role of M&A in Corporate Strategy
@@ -45,7 +46,7 @@ The RBV posits that a company’s sustained competitive advantage stems from its
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-s01TGoam8rKyAWvWziOh-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 4.1:</strong> Strategic Alignment Components in M&A.</p>
+        <p><strong>Figure 4.1:</strong> Strategic Alignment Components in M&A.</p>
     </div>
 </div>
 
@@ -56,7 +57,7 @@ Meanwhile, the <em>dynamic capabilities</em> framework, introduced by David Teec
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-yvaNj3HqLN4eV4nkDdFk-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 4.2:</strong> Leveraging Dynamic Capabilities for Successful M&A Integration.</p>
+        <p><strong>Figure 4.2:</strong> Leveraging Dynamic Capabilities for Successful M&A Integration.</p>
     </div>
 </div>
 
@@ -101,7 +102,7 @@ From an academic perspective, goal-setting theory plays a pivotal role in framin
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-QEaObhsvjUHBc2mzpO4q-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 4.3:</strong> SMART Objectives for M&A Funnel Strategy.</p>
+        <p><strong>Figure 4.3:</strong> SMART Objectives for M&A Funnel Strategy.</p>
     </div>
 </div>
 
@@ -166,7 +167,7 @@ In an M&A context, TCE provides a lens through which companies can assess the ef
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-vdsRfMmhgXxdkzDZ7sBe-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 4.4:</strong> Key Components in Balancing Internal Efficiencies and External Pressures in M&A.</p>
+        <p><strong>Figure 4.4:</strong> Key Components in Balancing Internal Efficiencies and External Pressures in M&A.</p>
     </div>
 </div>
 
@@ -251,7 +252,7 @@ In many cases, allowing the target company to retain a degree of autonomy—part
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-56jRO2uoke81KjrNp7cF-v1.png" >}}
-        <p><span class="fw-bold ">Figure 5:</span> <strong>Figure 4.5:</strong> Key Elements for Cultural Integration Success.</p>
+        <p><strong>Figure 4.5:</strong> Key Elements for Cultural Integration Success.</p>
     </div>
 </div>
 
@@ -348,7 +349,7 @@ Value creation is the ultimate goal of any M&A transaction, yet achieving it req
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-kMMpOn0eTYj8ov1tfzDl-v1.png" >}}
-        <p><span class="fw-bold ">Figure 6:</span> <strong>Figure 4.6:</strong> Achieving and Sustaining Value Creation in M&A.</p>
+        <p><strong>Figure 4.6:</strong> Achieving and Sustaining Value Creation in M&A.</p>
     </div>
 </div>
 
@@ -409,7 +410,7 @@ One of the key advantages of continuous monitoring is that it allows companies t
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-eEnPvzB1RnxMPdRIj8Gc-v1.png" >}}
-        <p><span class="fw-bold ">Figure 7:</span> <strong>Figure 4.7:</strong> Steps to Successful Post-Merger Integration.</p>
+        <p><strong>Figure 4.7:</strong> Steps to Successful Post-Merger Integration.</p>
     </div>
 </div>
 
@@ -442,7 +443,7 @@ Academic theories such as <em>agency theory</em> and <em>transaction cost econom
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-qnjIUsUbfwrR4I50jMBy-v1.jpeg" >}}
-        <p><span class="fw-bold ">Figure 8:</span> <strong>Figure 4.8:</strong> Agency theory for mitigating risks.</p>
+        <p><strong>Figure 4.8:</strong> Agency theory for mitigating risks.</p>
     </div>
 </div>
 
@@ -453,7 +454,7 @@ Financial risk is one of the most significant concerns in M&A, especially with r
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-lPmDcNA6LzCfsrQZVnXM-v1.webp" >}}
-        <p><span class="fw-bold ">Figure 9:</span> <strong>Figure 4.9:</strong> TCE theory for mitigating risks.</p>
+        <p><strong>Figure 4.9:</strong> TCE theory for mitigating risks.</p>
     </div>
 </div>
 

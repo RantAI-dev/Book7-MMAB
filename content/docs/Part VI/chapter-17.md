@@ -3,8 +3,8 @@ weight: 2100
 title: "Chapter 17"
 description: "Digital Industry M&A Strategies"
 icon: "article"
-date: "2024-10-15T18:39:59.816368+07:00"
-lastmod: "2024-10-15T18:39:59.816385+07:00"
+date: "2024-10-19T16:11:32.394915+07:00"
+lastmod: "2024-10-19T16:11:32.394932+07:00"
 katex: true
 draft: false
 toc: true
@@ -12,9 +12,10 @@ toc: true
 {{% alert icon="💡" context="info" %}}
 <strong>"<em>In the digital economy, the success of an acquisition hinges not just on financial synergies, but on the ability to integrate technologies, protect intellectual property, and safeguard data privacy in an increasingly regulated world.</em>" — Satya Nadella, CEO, Microsoft.</strong>
 {{% /alert %}}
-<p style="text-align: justify;">
-<em>This chapter explores the unique strategies required for mergers and acquisitions in the digital industry. It discusses the challenges of integrating new technologies, managing intellectual property, mitigating cybersecurity risks, and ensuring data privacy and regulatory compliance. Companies that master these areas can leverage M&A to stay competitive in a rapidly evolving digital landscape, using acquisitions to drive growth, innovation, and sustainable market leadership.</em>
-</p>
+
+{{% alert icon="📘" context="success" %}}
+<p style="text-align: justify;"><em>This chapter explores the unique strategies required for mergers and acquisitions in the digital industry. It discusses the challenges of integrating new technologies, managing intellectual property, mitigating cybersecurity risks, and ensuring data privacy and regulatory compliance. Companies that master these areas can leverage M&A to stay competitive in a rapidly evolving digital landscape, using acquisitions to drive growth, innovation, and sustainable market leadership.</em></p>
+{{% /alert %}}
 
 ---
 # 17.1. Introduction
@@ -25,7 +26,7 @@ The digital sector, characterized by rapid technological innovation, constant di
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-U62sYQmdq0fIhERQ2yTD-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 17.1:</strong> Digital M&A strategies.</p>
+        <p><strong>Figure 17.1:</strong> Digital M&A strategies.</p>
     </div>
 </div>
 
@@ -78,7 +79,7 @@ The digital industry is characterized by constant innovation and disruption, whi
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-ncQPwea6x8O3qyfRFShm-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 17.2:</strong> Technology evaluation aspects of digital industry M&A.</p>
+        <p><strong>Figure 17.2:</strong> Technology evaluation aspects of digital industry M&A.</p>
     </div>
 </div>
 
@@ -113,7 +114,7 @@ In industry practice, companies often use horizon scanning as a method to antici
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-jeYQ4mVuqijsavmFnyhK-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 17.3:</strong> Process to navigate technological changes.</p>
+        <p><strong>Figure 17.3:</strong> Process to navigate technological changes.</p>
     </div>
 </div>
 
@@ -134,7 +135,7 @@ From an academic perspective, intellectual property is often analyzed through th
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-K1xaMWvEg285i3cefdjp-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 17.4:</strong> Scopes of IP in M&A.</p>
+        <p><strong>Figure 17.4:</strong> Scopes of IP in M&A.</p>
     </div>
 </div>
 
@@ -187,7 +188,7 @@ From an academic perspective, the concept of risk management in M&A has traditio
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-AAYdV2b0E4yziil9x51P-v1.png" >}}
-        <p><span class="fw-bold ">Figure 5:</span> <strong>Figure 17.5:</strong> Cybersecurity challenges in M&A.</p>
+        <p><strong>Figure 17.5:</strong> Cybersecurity challenges in M&A.</p>
     </div>
 </div>
 
@@ -240,7 +241,7 @@ From an academic perspective, data privacy concerns in M&A are often examined th
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-RGB5HzObpZ9tu4X64YY7-v1.png" >}}
-        <p><span class="fw-bold ">Figure 6:</span> <strong>Figure 17.6:</strong> Ensuring data privacy and compliance in M&A process.</p>
+        <p><strong>Figure 17.6:</strong> Ensuring data privacy and compliance in M&A process.</p>
     </div>
 </div>
 

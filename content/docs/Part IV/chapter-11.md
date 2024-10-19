@@ -3,8 +3,8 @@ weight: 1500
 title: "Chapter 11"
 description: "Structures, Systems, and Processes"
 icon: "article"
-date: "2024-10-15T18:39:59.786374+07:00"
-lastmod: "2024-10-15T18:39:59.786388+07:00"
+date: "2024-10-19T16:11:32.362950+07:00"
+lastmod: "2024-10-19T16:11:32.362969+07:00"
 katex: true
 draft: false
 toc: true
@@ -12,9 +12,10 @@ toc: true
 {{% alert icon="💡" context="info" %}}
 <strong>"<em>Successful integration is about more than just bringing two organizations together. It's about aligning the right structures, systems, and processes to unlock growth, reduce inefficiencies, and create a sustainable competitive edge.</em>" — John Doe, Chief Technology Officer, Global M&A Advisory Firm.</strong>
 {{% /alert %}}
-<p style="text-align: justify;">
-<em>This chapter provides a deep dive into the structural and operational aspects of post-merger integration, focusing on how to effectively merge organizational systems and processes to drive growth and sustainability. It discusses the critical role of IT system integration, the strategic decision between standardizing or customizing processes, and the opportunities for process re-engineering. Through these efforts, organizations can optimize operations, mitigate integration risks, and position themselves for long-term success in an increasingly competitive business environment.</em>
-</p>
+
+{{% alert icon="📘" context="success" %}}
+<p style="text-align: justify;"><em>This chapter provides a deep dive into the structural and operational aspects of post-merger integration, focusing on how to effectively merge organizational systems and processes to drive growth and sustainability. It discusses the critical role of IT system integration, the strategic decision between standardizing or customizing processes, and the opportunities for process re-engineering. Through these efforts, organizations can optimize operations, mitigate integration risks, and position themselves for long-term success in an increasingly competitive business environment.</em></p>
+{{% /alert %}}
 
 ---
 # 11.1. Introduction
@@ -25,7 +26,7 @@ The success of mergers and acquisitions (M&A) is a multifaceted issue that goes 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-6hOgCqLfWElRCxdv3rrp-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 11.1:</strong> Structures, Systems and Process for Post-merger Integration.</p>
+        <p><strong>Figure 11.1:</strong> Structures, Systems and Process for Post-merger Integration.</p>
     </div>
 </div>
 
@@ -82,7 +83,7 @@ IT system integration stands as one of the most technically complex and strategi
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-gM28FL7mMOv40oLknlPu-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 11.2:</strong> Common process to integrate IT systems in M&A.</p>
+        <p><strong>Figure 11.2:</strong> Common process to integrate IT systems in M&A.</p>
     </div>
 </div>
 
@@ -139,7 +140,7 @@ The decision between standardization and customization during post-merger integr
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-eZOG3chDfNJVAfopwfrh-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 11.3:</strong> Balancing standardization and customization in post-merger integration.</p>
+        <p><strong>Figure 11.3:</strong> Balancing standardization and customization in post-merger integration.</p>
     </div>
 </div>
 
@@ -200,7 +201,7 @@ Mergers and acquisitions (M&A) offer a unique and strategic window for process r
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-0pTSjmrXLAcPmL886E5v-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 11.4:</strong> Process re-engineering and optimization in post-merger.</p>
+        <p><strong>Figure 11.4:</strong> Process re-engineering and optimization in post-merger.</p>
     </div>
 </div>
 

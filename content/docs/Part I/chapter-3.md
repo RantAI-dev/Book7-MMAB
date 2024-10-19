@@ -3,8 +3,8 @@ weight: 700
 title: "Chapter 3"
 description: "M&A in the Digital and Oil & Gas Industries"
 icon: "article"
-date: "2024-10-15T18:39:59.854470+07:00"
-lastmod: "2024-10-15T18:39:59.854493+07:00"
+date: "2024-10-19T16:11:32.424582+07:00"
+lastmod: "2024-10-19T16:11:32.424600+07:00"
 katex: true
 draft: false
 toc: true
@@ -12,9 +12,10 @@ toc: true
 {{% alert icon="💡" context="info" %}}
 <strong>"<em>In the digital age, M&A is no longer just a growth strategy; it’s a survival strategy. For industries like oil & gas, where the energy transition is redefining business models, M&A is critical for embracing new technologies and meeting sustainability goals.</em>" — Satya Nadella, CEO of Microsoft</strong>
 {{% /alert %}}
-<p style="text-align: justify;">
-<em>This chapter explores the unique drivers of mergers and acquisitions in two contrasting yet critical industries: digital and oil & gas. While the digital industry is characterized by rapid innovation and technological disruption, the oil & gas sector is driven by operational efficiency, asset consolidation, and the energy transition. The chapter examines how regulatory considerations, technology advancements, and environmental sustainability are shaping M&A strategies in both industries. Through strategic acquisitions, companies can achieve growth, ensure compliance, and lead in innovation, all while responding to the increasing importance of environmental and sustainability concerns.</em>
-</p>
+
+{{% alert icon="📘" context="success" %}}
+<p style="text-align: justify;"><em>This chapter explores the unique drivers of mergers and acquisitions in two contrasting yet critical industries: digital and oil & gas. While the digital industry is characterized by rapid innovation and technological disruption, the oil & gas sector is driven by operational efficiency, asset consolidation, and the energy transition. The chapter examines how regulatory considerations, technology advancements, and environmental sustainability are shaping M&A strategies in both industries. Through strategic acquisitions, companies can achieve growth, ensure compliance, and lead in innovation, all while responding to the increasing importance of environmental and sustainability concerns.</em></p>
+{{% /alert %}}
 
 ---
 # 1.1. Industry-Specific Drivers
@@ -29,7 +30,7 @@ In the digital industry, the pace of innovation is relentless, with new technolo
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-ijJnVZdi6RS8nY6Pm37n-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 3.1:</strong> Drivers for Strategic M&A in Digital Industry.</p>
+        <p><strong>Figure 3.1:</strong> Drivers for Strategic M&A in Digital Industry.</p>
     </div>
 </div>
 
@@ -43,7 +44,7 @@ In contrast, the oil & gas industry, which is capital-intensive and highly regul
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-dqnmhLKPURgcDGuevI0V-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 3.2:</strong> Applying Strategic Lens to M&A: A Sample Approach in Oil & Gas Industry.</p>
+        <p><strong>Figure 3.2:</strong> Applying Strategic Lens to M&A: A Sample Approach in Oil & Gas Industry.</p>
     </div>
 </div>
 
@@ -91,7 +92,7 @@ Mergers and acquisitions (M&A) are inherently complex transactions, but their co
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-WCJ40cI4UJNaZYqVbkvx-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 3.3:</strong> Sample of a Comparative Analysis of M&A Regulatory Landscapes.</p>
+        <p><strong>Figure 3.3:</strong> Sample of a Comparative Analysis of M&A Regulatory Landscapes.</p>
     </div>
 </div>
 
@@ -135,7 +136,7 @@ Antitrust authorities examine factors such as market concentration, consumer cho
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-7P5p2BossfaByFGkGIvo-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 3.4:</strong> Logical Decision-making Flow for Digital Industry.</p>
+        <p><strong>Figure 3.4:</strong> Logical Decision-making Flow for Digital Industry.</p>
     </div>
 </div>
 
@@ -161,7 +162,7 @@ In the oil & gas sector, M&A transactions often involve the acquisition of criti
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-8NfTwXXRCGIK12OaYqr9-v1.png" >}}
-        <p><span class="fw-bold ">Figure 5:</span> <strong>Figure 3.5:</strong> Logical Decision-making Flow for Oil & Gas Industry.</p>
+        <p><strong>Figure 3.5:</strong> Logical Decision-making Flow for Oil & Gas Industry.</p>
     </div>
 </div>
 
@@ -208,7 +209,7 @@ In the digital sector, technology is not only a product but the very foundation 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-T7fCK9Xd6jsid7qo5bmO-v1.png" >}}
-        <p><span class="fw-bold ">Figure 6:</span> <strong>Figure 3.6:</strong> Cutting-edge Technologies in Digital Transformation.</p>
+        <p><strong>Figure 3.6:</strong> Cutting-edge Technologies in Digital Transformation.</p>
     </div>
 </div>
 
@@ -230,7 +231,7 @@ In contrast to the digital sector, where technology is the core product, technol
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-aKBV033q3li3tdPRHYqo-v1.png" >}}
-        <p><span class="fw-bold ">Figure 7:</span> <strong>Figure 3.7:</strong> Key Technology Advancements.</p>
+        <p><strong>Figure 3.7:</strong> Key Technology Advancements.</p>
     </div>
 </div>
 
@@ -270,7 +271,7 @@ In the oil & gas industry, the global energy transition is reshaping traditional
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-cFPbfagXJJB1RzaoupzL-v1.png" >}}
-        <p><span class="fw-bold ">Figure 8:</span> <strong>Figure 3.8:</strong> The Impact of Energy Transition on Oil & Gas Industry.</p>
+        <p><strong>Figure 3.8:</strong> The Impact of Energy Transition on Oil & Gas Industry.</p>
     </div>
 </div>
 
@@ -285,7 +286,7 @@ In the digital industry, sustainability has also become a key consideration in M
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-cLcP97ewVeJfSAuGcghE-v1.png" >}}
-        <p><span class="fw-bold ">Figure 9:</span> <strong>Figure 3.9:</strong> Sustainability Aspects in Digital Industry M&A.</p>
+        <p><strong>Figure 3.9:</strong> Sustainability Aspects in Digital Industry M&A.</p>
     </div>
 </div>
 

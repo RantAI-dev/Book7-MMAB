@@ -3,8 +3,8 @@ weight: 1700
 title: "Chapter 13"
 description: "Operational Integration Techniques"
 icon: "article"
-date: "2024-10-15T18:39:59.796225+07:00"
-lastmod: "2024-10-15T18:39:59.796240+07:00"
+date: "2024-10-19T16:11:32.373483+07:00"
+lastmod: "2024-10-19T16:11:32.373502+07:00"
 katex: true
 draft: false
 toc: true
@@ -12,9 +12,10 @@ toc: true
 {{% alert icon="💡" context="info" %}}
 <strong>"<em>Successful M&A integration is not just about finding operational efficiencies—it’s about implementing the right governance, fostering collaboration, and using structured methodologies to ensure that both quick wins and long-term goals are realized.</em>" — David Harding, Senior Partner, Bain & Company.</strong>
 {{% /alert %}}
-<p style="text-align: justify;">
-<em>This chapter delves into the critical aspects of operational integration in mergers and acquisitions. It explores the techniques for integrating operations, the project management methodologies that guide this process, the balance between quick wins and long-term goals, and the governance structures necessary for overseeing successful integration. By prioritizing operational efficiency, strategic alignment, and robust governance, companies can drive growth and sustainability post-merger.</em>
-</p>
+
+{{% alert icon="📘" context="success" %}}
+<p style="text-align: justify;"><em>This chapter delves into the critical aspects of operational integration in mergers and acquisitions. It explores the techniques for integrating operations, the project management methodologies that guide this process, the balance between quick wins and long-term goals, and the governance structures necessary for overseeing successful integration. By prioritizing operational efficiency, strategic alignment, and robust governance, companies can drive growth and sustainability post-merger.</em></p>
+{{% /alert %}}
 
 ---
 # 13.1. Operational Integration Techniques
@@ -33,7 +34,7 @@ Industry case studies reinforce these academic insights, illustrating how succes
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-3AvL5nTIRsJO6oLtnChX-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 13.1:</strong> Operational Integration Techniques in M&A.</p>
+        <p><strong>Figure 13.1:</strong> Operational Integration Techniques in M&A.</p>
     </div>
 </div>
 
@@ -86,7 +87,7 @@ In the context of M&A, the choice of project management methodology can signific
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-kX1Ad9LVC82XDL3kq6Su-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 13.2:</strong> Common Project Management Methodology in Operational Integration.</p>
+        <p><strong>Figure 13.2:</strong> Common Project Management Methodology in Operational Integration.</p>
     </div>
 </div>
 
@@ -155,7 +156,7 @@ One of the key factors in successfully balancing quick wins and long-term goals 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-s8P0pQ681VLgO5JUG9rq-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 13.3:</strong> Key Components in Balancing Quick Wins and Long-Term Goals in M&A.</p>
+        <p><strong>Figure 13.3:</strong> Key Components in Balancing Quick Wins and Long-Term Goals in M&A.</p>
     </div>
 </div>
 
@@ -192,7 +193,7 @@ From an academic perspective, the role of governance in M&A integration is recog
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-lUth80PyGsyIyI1CGV1T-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 13.4:</strong> Effective Governance Structures in M&A Integration.</p>
+        <p><strong>Figure 13.4:</strong> Effective Governance Structures in M&A Integration.</p>
     </div>
 </div>
 

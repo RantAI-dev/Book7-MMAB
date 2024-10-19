@@ -3,8 +3,8 @@ weight: 1100
 title: "Chapter 7"
 description: "Lessons from M&A Failures"
 icon: "article"
-date: "2024-10-15T18:39:59.895428+07:00"
-lastmod: "2024-10-15T18:39:59.895445+07:00"
+date: "2024-10-19T16:11:32.461908+07:00"
+lastmod: "2024-10-19T16:11:32.461931+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,7 @@ Mergers and acquisitions (M&A) are widely regarded as one of the most potent str
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-ApRcKuNOKWmVGYQKkxt5-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 7.1:</strong> Potential challenges on M&A failures.</p>
+        <p><strong>Figure 7.1:</strong> Potential challenges on M&A failures.</p>
     </div>
 </div>
 
@@ -44,7 +44,7 @@ While academic theories provide the conceptual framework, the practical causes o
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-54BJq6HtNeaOcRnWOpZu-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 7.2:</strong> Common issues in M&A failure.</p>
+        <p><strong>Figure 7.2:</strong> Common issues in M&A failure.</p>
     </div>
 </div>
 
@@ -84,7 +84,7 @@ This reflective learning process is often referred to as a "lessons learned" ana
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-X8jfMORKlYOZpWOwZFJm-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 7.3:</strong> Understanding why M&A failed.</p>
+        <p><strong>Figure 7.3:</strong> Understanding why M&A failed.</p>
     </div>
 </div>
 
@@ -111,7 +111,7 @@ In industry, post-mortem analyses are a critical component of improving M&A perf
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-3nVRdZC91FOS8L7QB6TY-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 7.4:</strong> Post-mortem analysis steps in M&A failure.</p>
+        <p><strong>Figure 7.4:</strong> Post-mortem analysis steps in M&A failure.</p>
     </div>
 </div>
 
@@ -164,7 +164,7 @@ Mergers and acquisitions (M&A) are complex strategic transactions that hold sign
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-zKYxKRaN7KcBK7ur6EBT-v1.png" >}}
-        <p><span class="fw-bold ">Figure 5:</span> <strong>Figure 7.5:</strong> Common factors that make M&A failed.</p>
+        <p><strong>Figure 7.5:</strong> Common factors that make M&A failed.</p>
     </div>
 </div>
 
@@ -253,7 +253,7 @@ From an academic perspective, successful cultural integration in M&A is grounded
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-S4gRz7eWHuvPSna9x9DC-v1.png" >}}
-        <p><span class="fw-bold ">Figure 6:</span> <strong>Figure 7.6:</strong> Common cultural and integration clashes that make M&A failed.</p>
+        <p><strong>Figure 7.6:</strong> Common cultural and integration clashes that make M&A failed.</p>
     </div>
 </div>
 
@@ -335,7 +335,7 @@ A classic example of overvaluation driven by overconfidence bias is the 2011 acq
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-xIqlTayIEzovWNOvf90O-v1.png" >}}
-        <p><span class="fw-bold ">Figure 7:</span> <strong>Figure 7.7:</strong> Complexity of financial modeling technique in M&A.</p>
+        <p><strong>Figure 7.7:</strong> Complexity of financial modeling technique in M&A.</p>
     </div>
 </div>
 
@@ -527,7 +527,7 @@ The oil and gas industry’s unique set of challenges—including market volatil
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-sQCWMgn7MWWzKoXsSYsk-v1.png" >}}
-        <p><span class="fw-bold ">Figure 8:</span> <strong>Figure 7.8:</strong> Lesson learn from M&A failure in oil and gas industry.</p>
+        <p><strong>Figure 7.8:</strong> Lesson learn from M&A failure in oil and gas industry.</p>
     </div>
 </div>
 

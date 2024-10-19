@@ -3,8 +3,8 @@ weight: 2000
 title: "Chapter 16"
 description: "Acquisition Programs and Competitive Benefits"
 icon: "article"
-date: "2024-10-15T18:39:59.811405+07:00"
-lastmod: "2024-10-15T18:39:59.811420+07:00"
+date: "2024-10-19T16:11:32.389288+07:00"
+lastmod: "2024-10-19T16:11:32.389307+07:00"
 katex: true
 draft: false
 toc: true
@@ -12,9 +12,10 @@ toc: true
 {{% alert icon="💡" context="info" %}}
 <strong>"<em>The ability to develop repeatable M&A processes and build strong internal capabilities gives companies a significant advantage in the market, allowing them to execute deals faster, more efficiently, and with greater impact.</em>" — Michael DeVito, Global Head of M&A, JPMorgan Chase.</strong>
 {{% /alert %}}
-<p style="text-align: justify;">
-<em>This chapter explores how organizations can develop structured acquisition programs, build internal M&A capabilities, create repeatable processes, and leverage mergers and acquisitions to gain a competitive edge. It emphasizes the importance of a strategic approach to M&A, where success is driven by consistency, agility, and the ability to capitalize on market opportunities. Companies that effectively manage their M&A initiatives position themselves for sustained growth and long-term competitiveness in their industries.</em>
-</p>
+
+{{% alert icon="📘" context="success" %}}
+<p style="text-align: justify;"><em>This chapter explores how organizations can develop structured acquisition programs, build internal M&A capabilities, create repeatable processes, and leverage mergers and acquisitions to gain a competitive edge. It emphasizes the importance of a strategic approach to M&A, where success is driven by consistency, agility, and the ability to capitalize on market opportunities. Companies that effectively manage their M&A initiatives position themselves for sustained growth and long-term competitiveness in their industries.</em></p>
+{{% /alert %}}
 
 ---
 # 16.1. Acquisition Programs and Competitive Benefits
@@ -25,7 +26,7 @@ The focus in this section is on how structured acquisition programs can be a pow
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-2Vq1B7tmIxahliEbRGpH-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 16.1</strong>: Key Strategic Components of a Structured Acquisition Program.</p>
+        <p><strong>Figure 16.1</strong>: Key Strategic Components of a Structured Acquisition Program.</p>
     </div>
 </div>
 
@@ -82,7 +83,7 @@ In practice, building in-house M&A capabilities starts with assembling a dedicat
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-foHMmMAZgTv5mY1Kr95b-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 16.2</strong>: Key Aspects in Building In-house M&A Capabilities.</p>
+        <p><strong>Figure 16.2</strong>: Key Aspects in Building In-house M&A Capabilities.</p>
     </div>
 </div>
 
@@ -159,7 +160,7 @@ Additionally, repeatable M&A processes improve collaboration and alignment with 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-lNMo1fRqNTD7GOTa1CaO-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 16.3</strong>: Essential Stages in Developing Successful Repeatable M&A Process.</p>
+        <p><strong>Figure 16.3</strong>: Essential Stages in Developing Successful Repeatable M&A Process.</p>
     </div>
 </div>
 
@@ -180,7 +181,7 @@ Acquisitions allow organizations to enhance their market position, access new ca
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-w0IU6A1IdTEsCDMcO2RD-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 16.4</strong>: M&A Strategies Framework to Achieve Competitive Advantage.</p>
+        <p><strong>Figure 16.4</strong>: M&A Strategies Framework to Achieve Competitive Advantage.</p>
     </div>
 </div>
 

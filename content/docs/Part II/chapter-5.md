@@ -3,8 +3,8 @@ weight: 900
 title: "Chapter 5"
 description: "Comprehensive Due Diligence Scopes"
 icon: "article"
-date: "2024-10-15T18:39:59.871080+07:00"
-lastmod: "2024-10-15T18:39:59.871105+07:00"
+date: "2024-10-19T16:11:32.438558+07:00"
+lastmod: "2024-10-19T16:11:32.438580+07:00"
 katex: true
 draft: false
 toc: true
@@ -12,9 +12,10 @@ toc: true
 {{% alert icon="💡" context="info" %}}
 <strong>"<em>Due diligence is the cornerstone of successful M&A. It’s not just about mitigating risks—it’s about uncovering hidden opportunities that can drive long-term value and sustainable growth. In today’s market, companies that integrate financial, operational, and ESG factors into their due diligence process are the ones that consistently outperform.</em>" — Jane Doe, Managing Director, Global M&A Advisory, Deloitte</strong>
 {{% /alert %}}
-<p style="text-align: justify;">
-<em>This chapter provides a comprehensive guide to conducting due diligence in mergers and acquisitions, covering all critical areas such as business, financial, legal, tax, operational, and ESG factors. By ensuring a thorough understanding of the target company’s strengths, risks, and opportunities, the acquiring company can mitigate potential risks while identifying areas for value creation. The chapter emphasizes the importance of aligning the due diligence process with the acquirer’s long-term strategic goals, ensuring that the acquisition supports both immediate and future growth.</em>
-</p>
+
+{{% alert icon="📘" context="success" %}}
+<p style="text-align: justify;"><em>This chapter provides a comprehensive guide to conducting due diligence in mergers and acquisitions, covering all critical areas such as business, financial, legal, tax, operational, and ESG factors. By ensuring a thorough understanding of the target company’s strengths, risks, and opportunities, the acquiring company can mitigate potential risks while identifying areas for value creation. The chapter emphasizes the importance of aligning the due diligence process with the acquirer’s long-term strategic goals, ensuring that the acquisition supports both immediate and future growth.</em></p>
+{{% /alert %}}
 
 ---
 # 5.1. The Critical Role of Scientific Due Diligence in M&A
@@ -25,7 +26,7 @@ Due diligence serves as the cornerstone of informed decision-making in mergers a
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-l4UC7g0HmZfzl1V2mZQ2-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 5.1:</strong> Common academic theories for Due Diligence.</p>
+        <p><strong>Figure 5.1:</strong> Common academic theories for Due Diligence.</p>
     </div>
 </div>
 
@@ -37,7 +38,7 @@ From an academic standpoint, several strategic management theories offer valuabl
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-YDDOUfBblkg6TviUOdBa-v1.jpeg" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 5.2:</strong> VRIN framework for RBV theory.</p>
+        <p><strong>Figure 5.2:</strong> VRIN framework for RBV theory.</p>
     </div>
 </div>
 
@@ -45,7 +46,7 @@ From an academic standpoint, several strategic management theories offer valuabl
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-8u4fPSgg3VWwdJrnZf23-v1.webp" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 5.3:</strong> Dynamic capability (DC) assessment in M&A.</p>
+        <p><strong>Figure 5.3:</strong> Dynamic capability (DC) assessment in M&A.</p>
     </div>
 </div>
 
@@ -53,7 +54,7 @@ From an academic standpoint, several strategic management theories offer valuabl
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 40%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-7yQ5ujYQMKCqkOk8TXnm-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 5.4:</strong> Self-interest common problem in agency theory.</p>
+        <p><strong>Figure 5.4:</strong> Self-interest common problem in agency theory.</p>
     </div>
 </div>
 
@@ -61,7 +62,7 @@ From an academic standpoint, several strategic management theories offer valuabl
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 40%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-kPcjOl5eQgCq3pai67ia-v1.png" >}}
-        <p><span class="fw-bold ">Figure 5:</span> <strong>Figure 5.6:</strong> Main aspects of corporate governance.</p>
+        <p><strong>Figure 5.6:</strong> Main aspects of corporate governance.</p>
     </div>
 </div>
 
@@ -72,7 +73,7 @@ In practice, due diligence involves a structured, multifaceted process that comb
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-u1biA8shAizeeS1rzIO1-v1.png" >}}
-        <p><span class="fw-bold ">Figure 6:</span> <strong>Figure 5.7:</strong> Main stages of due diligence process.</p>
+        <p><strong>Figure 5.7:</strong> Main stages of due diligence process.</p>
     </div>
 </div>
 
@@ -92,7 +93,7 @@ In practice, successful due diligence requires collaboration between cross-funct
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-E6dk4xkOk12BDKJgX2se-v1.png" >}}
-        <p><span class="fw-bold ">Figure 7:</span> <strong>Figure 5.8:</strong> Sample business process of due diligence.</p>
+        <p><strong>Figure 5.8:</strong> Sample business process of due diligence.</p>
     </div>
 </div>
 
@@ -117,7 +118,7 @@ From an academic standpoint, due diligence can be closely tied to <em>enterprise
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-qQWVRxNOWLtNYVr7zkUu-v1.png" >}}
-        <p><span class="fw-bold ">Figure 8:</span> <strong>Figure 5.9:</strong> Main activities in ERM framework.</p>
+        <p><strong>Figure 5.9:</strong> Main activities in ERM framework.</p>
     </div>
 </div>
 
@@ -144,7 +145,7 @@ The due diligence process must be grounded in scientific and systematic methods 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-giF2SmYPrpOLt5RgFroU-v1.png" >}}
-        <p><span class="fw-bold ">Figure 9:</span> <strong>Figure 5.10:</strong> The due diligence assessment methods.</p>
+        <p><strong>Figure 5.10:</strong> The due diligence assessment methods.</p>
     </div>
 </div>
 
@@ -193,7 +194,7 @@ In industry practice, companies like Amazon have utilized dynamic capabilities i
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-0FovBdQz6scOGUWgC6aw-v1.png" >}}
-        <p><span class="fw-bold ">Figure 10:</span> <strong>Figure 5.11:</strong> Best practices on due diligence process.</p>
+        <p><strong>Figure 5.11:</strong> Best practices on due diligence process.</p>
     </div>
 </div>
 
@@ -235,7 +236,7 @@ However, in today’s rapidly evolving markets, traditional frameworks must be s
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-fxmvjdWe9P3emVf0yGbi-v1.png" >}}
-        <p><span class="fw-bold ">Figure 11:</span> <strong>Figure 5.12:</strong> Competitive forces on M&A based on Porter’s model.</p>
+        <p><strong>Figure 5.12:</strong> Competitive forces on M&A based on Porter’s model.</p>
     </div>
 </div>
 
@@ -255,7 +256,7 @@ While academic frameworks like Porter’s Five Forces provide valuable insights 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-cpMPnIKFGfbLfxIytxHc-v1.png" >}}
-        <p><span class="fw-bold ">Figure 12:</span> <strong>Figure 5.13:</strong> Data analytic requirement in due diligence.</p>
+        <p><strong>Figure 5.13:</strong> Data analytic requirement in due diligence.</p>
     </div>
 </div>
 
@@ -295,7 +296,7 @@ In academic research, the correlation between customer satisfaction and long-ter
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-IXJwzFcbB0U4Io6jc8xx-v1.png" >}}
-        <p><span class="fw-bold ">Figure 13:</span> <strong>Figure 5.14:</strong> Customer-centric analysis in due diligence.</p>
+        <p><strong>Figure 5.14:</strong> Customer-centric analysis in due diligence.</p>
     </div>
 </div>
 
@@ -310,7 +311,7 @@ Supply chain resilience is another key focus in academic literature. It refers t
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-XSpwYRY1npZCOZY3UTim-v1.png" >}}
-        <p><span class="fw-bold ">Figure 14:</span> <strong>Figure 5.15:</strong> Key aspects on supply chain due diligence.</p>
+        <p><strong>Figure 5.15:</strong> Key aspects on supply chain due diligence.</p>
     </div>
 </div>
 
@@ -347,7 +348,7 @@ Financial ratios play a central role in academic financial analysis. For instanc
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-zsjGsdudCE6VjFpeFF2p-v1.png" >}}
-        <p><span class="fw-bold ">Figure 15:</span> <strong>Figure 5.16:</strong> Key aspects on finance due diligence.</p>
+        <p><strong>Figure 5.16:</strong> Key aspects on finance due diligence.</p>
     </div>
 </div>
 
@@ -382,7 +383,7 @@ The strategic implications of financial due diligence extend far beyond the imme
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-AxTbZTqOk3eA3N2upjIB-v1.png" >}}
-        <p><span class="fw-bold ">Figure 16:</span> <strong>Figure 5.17:</strong> Sample business process for comprehensive due diligence.</p>
+        <p><strong>Figure 5.17:</strong> Sample business process for comprehensive due diligence.</p>
     </div>
 </div>
 
@@ -399,7 +400,7 @@ Financial statement analysis is a fundamental component of financial due diligen
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-TzaMj4IeZVBm2QH4GWHb-v1.png" >}}
-        <p><span class="fw-bold ">Figure 17:</span> <strong>Figure 5.18:</strong> Comprehensive scopes of financial statement analysis.</p>
+        <p><strong>Figure 5.18:</strong> Comprehensive scopes of financial statement analysis.</p>
     </div>
 </div>
 
@@ -484,7 +485,7 @@ Valuation is a cornerstone of the Mergers and Acquisitions (M&A) process, repres
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-6YsTtNNU2SkIXRgntSvN-v1.png" >}}
-        <p><span class="fw-bold ">Figure 18:</span> <strong>Figure 5.19:</strong> Comparison of common valuation methods.</p>
+        <p><strong>Figure 5.19:</strong> Comparison of common valuation methods.</p>
     </div>
 </div>
 
@@ -502,7 +503,7 @@ In practice, acquirers must adapt and refine these academic valuation frameworks
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-phDS496HpJbFEZp2JUsj-v1.png" >}}
-        <p><span class="fw-bold ">Figure 19:</span> <strong>Figure 5.20:</strong> Sample business process of valuation method.</p>
+        <p><strong>Figure 5.20:</strong> Sample business process of valuation method.</p>
     </div>
 </div>
 
@@ -567,7 +568,7 @@ One of the core tenets of corporate governance theory is transparency, which is 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-AmupyC5LSIyOnvrb1OQc-v1.png" >}}
-        <p><span class="fw-bold ">Figure 20:</span> None</p>
+        <p>Figure 5.21:</strong> Legal and Regulatory Risks in Acquisition</p>
     </div>
 </div>
 
@@ -643,7 +644,7 @@ In industry practice, tax due diligence is a multi-faceted process that involves
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-y0AvBOdz2MNg9SyyYzcu-v1.png" >}}
-        <p><span class="fw-bold ">Figure 21:</span> None</p>
+        <p>Figure 5.22:</strong> Components of Tax Due Diligence</p>
     </div>
 </div>
 
@@ -651,7 +652,7 @@ In industry practice, tax due diligence is a multi-faceted process that involves
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-761l1WtQFUk5a3t2z3Ei-v1.png" >}}
-        <p><span class="fw-bold ">Figure 22:</span> <strong>Figure 5.21:</strong> Additional aspects of cross-border tax due diligence.</p>
+        <p><strong>Figure 5.21:</strong> Additional aspects of cross-border tax due diligence.</p>
     </div>
 </div>
 
@@ -759,7 +760,7 @@ The ultimate goal of risk management in M&A transactions is to mitigate risks wh
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-0r8rI17y2QqREvB78GOV-v1.png" >}}
-        <p><span class="fw-bold ">Figure 23:</span> <strong>Figure 5.22:</strong> Key aspects of risk management in M&A.</p>
+        <p><strong>Figure 5.22:</strong> Key aspects of risk management in M&A.</p>
     </div>
 </div>
 
@@ -804,7 +805,7 @@ In industry practice, operational and technical due diligence is a highly detail
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-SIcPjmpnaHTFxV6I2pDV-v1.png" >}}
-        <p><span class="fw-bold ">Figure 24:</span> <strong>Figure 5.23:</strong> Key aspects of technology due diligence.</p>
+        <p><strong>Figure 5.23:</strong> Key aspects of technology due diligence.</p>
     </div>
 </div>
 
@@ -869,7 +870,7 @@ The environmental component of ESG due diligence focuses on the target’s impac
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-wXy8G5G4jb7JNL34nYRI-v1.png" >}}
-        <p><span class="fw-bold ">Figure 25:</span> <strong>Figure 5.24:</strong> Key aspects of ESG due diligence in M&A.</p>
+        <p><strong>Figure 5.24:</strong> Key aspects of ESG due diligence in M&A.</p>
     </div>
 </div>
 

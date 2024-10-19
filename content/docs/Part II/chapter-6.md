@@ -3,8 +3,8 @@ weight: 1000
 title: "Chapter 6"
 description: "Gathering Information and Identifying Potential Pitfalls"
 icon: "article"
-date: "2024-10-15T18:39:59.886550+07:00"
-lastmod: "2024-10-15T18:39:59.886568+07:00"
+date: "2024-10-19T16:11:32.453051+07:00"
+lastmod: "2024-10-19T16:11:32.453069+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,7 @@ The process of gathering information during mergers and acquisitions (M&A) is a 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-ds0CVzsr8c0xMgTxKlCB-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 6.1:</strong> Complexity of information gathering in M&A process.</p>
+        <p><strong>Figure 6.1:</strong> Complexity of information gathering in M&A process.</p>
     </div>
 </div>
 
@@ -48,7 +48,7 @@ The use of virtual data rooms (VDRs) has become a standard practice in M&A trans
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-ykcx26vSzuqoo3DnXd6f-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 6.2:</strong> VRD standard practices in M&A.</p>
+        <p><strong>Figure 6.2:</strong> VRD standard practices in M&A.</p>
     </div>
 </div>
 
@@ -63,7 +63,7 @@ The integration of AI-driven analytics into the M&A process represents a signifi
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-ZsMBLh1EDkDTeUppKB7P-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 6.3:</strong> AI driven analytics in M&A process.</p>
+        <p><strong>Figure 6.3:</strong> AI driven analytics in M&A process.</p>
     </div>
 </div>
 
@@ -120,7 +120,7 @@ The process of gathering information in Mergers and Acquisitions (M&A) is a stra
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-V4gXqHBWmAEUsxyEa8Qf-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 6.4:</strong> Complexity of information gathering process - manual vs analytic based.</p>
+        <p><strong>Figure 6.4:</strong> Complexity of information gathering process - manual vs analytic based.</p>
     </div>
 </div>
 
@@ -198,7 +198,7 @@ The financial data collection process typically forms the foundation of due dili
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-UT649crpUUWMXlcxI0hO-v1.png" >}}
-        <p><span class="fw-bold ">Figure 5:</span> <strong>Figure 6.5:</strong> Financial documents required in M&A process.</p>
+        <p><strong>Figure 6.5:</strong> Financial documents required in M&A process.</p>
     </div>
 </div>
 
@@ -216,7 +216,7 @@ Legal due diligence involves collecting and reviewing critical legal documents t
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-xcd7s6n5foi7eLqCUC4L-v1.png" >}}
-        <p><span class="fw-bold ">Figure 6:</span> <strong>Figure 6.6:</strong> Document prioritization is important in due diligence process.</p>
+        <p><strong>Figure 6.6:</strong> Document prioritization is important in due diligence process.</p>
     </div>
 </div>
 
@@ -234,7 +234,7 @@ Operational due diligence focuses on evaluating the target company’s operation
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-mqSfwlqJp9dlzDc5TMM4-v1.png" >}}
-        <p><span class="fw-bold ">Figure 7:</span> <strong>Figure 6.6:</strong> Key operational risks on M&A due diligence.</p>
+        <p><strong>Figure 6.6:</strong> Key operational risks on M&A due diligence.</p>
     </div>
 </div>
 
@@ -252,7 +252,7 @@ While financial and operational due diligence are critical, qualitative research
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-EAHoaNQk2BM1U4c1PTZf-v1.png" >}}
-        <p><span class="fw-bold ">Figure 8:</span> <strong>Figure 6.7:</strong> Qualitative research in due diligence.</p>
+        <p><strong>Figure 6.7:</strong> Qualitative research in due diligence.</p>
     </div>
 </div>
 
@@ -308,7 +308,7 @@ Confidentiality and data security are paramount concerns in the Mergers and Acqu
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-Dyuv2Ll5QxR2y3Dm9AWu-v1.png" >}}
-        <p><span class="fw-bold ">Figure 9:</span> <strong>Figure 6.8:</strong> Complexity of confidentiality in due diligence process.</p>
+        <p><strong>Figure 6.8:</strong> Complexity of confidentiality in due diligence process.</p>
     </div>
 </div>
 
@@ -401,7 +401,7 @@ The identification of red flags and potential deal breakers is a core objective 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-hqLKBFfpd8LuS6ZX0OXO-v1.png" >}}
-        <p><span class="fw-bold ">Figure 10:</span> <strong>Figure 6.9:</strong> Key red flag components in due diligence.</p>
+        <p><strong>Figure 6.9:</strong> Key red flag components in due diligence.</p>
     </div>
 </div>
 
@@ -416,7 +416,7 @@ Financial red flags are often the first indicators of underlying issues within t
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-hDQTWfc55Mc5VL7lyFFt-v1.png" >}}
-        <p><span class="fw-bold ">Figure 11:</span> <strong>Figure 6.10:</strong> Key financial red flag aspects in due diligence.</p>
+        <p><strong>Figure 6.10:</strong> Key financial red flag aspects in due diligence.</p>
     </div>
 </div>
 
@@ -485,7 +485,7 @@ Effective communication with stakeholders is a cornerstone of successful Mergers
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-3AxUDFsN1uVSYTR3kOUR-v1.png" >}}
-        <p><span class="fw-bold ">Figure 12:</span> <strong>Figure 6.11:</strong> Elements of effective communication with stakeholders in M&A process.</p>
+        <p><strong>Figure 6.11:</strong> Elements of effective communication with stakeholders in M&A process.</p>
     </div>
 </div>
 
@@ -500,7 +500,7 @@ In an M&A context, stakeholder theory highlights that failing to consider the pe
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-NEMtlsetUfuvI26pggEo-v1.png" >}}
-        <p><span class="fw-bold ">Figure 13:</span> <strong>Figure 6.12:</strong> Negative impacts on stakeholders.</p>
+        <p><strong>Figure 6.12:</strong> Negative impacts on stakeholders.</p>
     </div>
 </div>
 

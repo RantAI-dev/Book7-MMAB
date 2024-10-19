@@ -3,8 +3,8 @@ weight: 1300
 title: "Chapter 9"
 description: "Key Elements of Post-Merger Integration Strategy"
 icon: "article"
-date: "2024-10-15T18:39:59.912307+07:00"
-lastmod: "2024-10-15T18:39:59.912322+07:00"
+date: "2024-10-19T16:11:32.479830+07:00"
+lastmod: "2024-10-19T16:11:32.479848+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,7 @@ The cornerstone of any successful post-merger integration is the establishment o
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-M9D89HIcs29lKkuUuudn-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 9.1:</strong> Post-merger activity funnel.</p>
+        <p><strong>Figure 9.1:</strong> Post-merger activity funnel.</p>
     </div>
 </div>
 
@@ -87,7 +87,7 @@ The success of a post-merger integration largely depends on the early and thorou
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-XhXvn6yAXoFg5yYGkjqO-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 9.2:</strong> Key components of post-merger integration.</p>
+        <p><strong>Figure 9.2:</strong> Key components of post-merger integration.</p>
     </div>
 </div>
 
@@ -122,7 +122,7 @@ To manage the complexity of post-merger integration, companies should adopt a ph
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-JxLqorHQV7MxVw3kFAOJ-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 9.3:</strong> Process to achieve successful merger.</p>
+        <p><strong>Figure 9.3:</strong> Process to achieve successful merger.</p>
     </div>
 </div>
 
@@ -166,7 +166,7 @@ One of the key steps in ensuring a smooth post-merger integration is prioritizin
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-zX070LNst2KdkboBcuie-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 9.4:</strong> Balancing quick and long-term goals.</p>
+        <p><strong>Figure 9.4:</strong> Balancing quick and long-term goals.</p>
     </div>
 </div>
 
@@ -243,7 +243,7 @@ Additionally, process standardization fosters scalability. By creating uniform w
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-YhWaQJ7JmkcUn2ZKnIM4-v1.png" >}}
-        <p><span class="fw-bold ">Figure 5:</span> <strong>Figure 9.5:</strong> Streamlined process of post-merger activities.</p>
+        <p><strong>Figure 9.5:</strong> Streamlined process of post-merger activities.</p>
     </div>
 </div>
 
@@ -312,7 +312,7 @@ A successful leadership integration plan involves selecting leaders from both en
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-thFlvUR8fhelu85fl8dg-v1.png" >}}
-        <p><span class="fw-bold ">Figure 6:</span> <strong>Figure 9.6:</strong> Integration process of post-merger activities.</p>
+        <p><strong>Figure 9.6:</strong> Integration process of post-merger activities.</p>
     </div>
 </div>
 
@@ -369,7 +369,7 @@ One of the most critical aspects of post-merger integration is the consolidation
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-KkWsOdgQZc39tCCffbQ9-v1.png" >}}
-        <p><span class="fw-bold ">Figure 7:</span> <strong>Figure 9.7:</strong> Unified IT infra and data governance.</p>
+        <p><strong>Figure 9.7:</strong> Unified IT infra and data governance.</p>
     </div>
 </div>
 
@@ -430,7 +430,7 @@ Mergers often generate uncertainty among customers, who may question how the new
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-3WpPkHAziBc7eCimlprY-v1.png" >}}
-        <p><span class="fw-bold ">Figure 8:</span> <strong>Figure 9.8:</strong> Customer and market focus post-merger.</p>
+        <p><strong>Figure 9.8:</strong> Customer and market focus post-merger.</p>
     </div>
 </div>
 
@@ -523,7 +523,7 @@ Furthermore, integrating sustainability across the merged entity helps create a 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-SVFkEA1HDujLJ04yFIYt-v1.png" >}}
-        <p><span class="fw-bold ">Figure 9:</span> <strong>Figure 9.9:</strong> Sustainability and CSR in post-merger.</p>
+        <p><strong>Figure 9.9:</strong> Sustainability and CSR in post-merger.</p>
     </div>
 </div>
 
@@ -554,7 +554,7 @@ Tracking post-merger performance metrics is essential for measuring the success 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-hqZYuHO9lNfqDBwGTwCF-v1.png" >}}
-        <p><span class="fw-bold ">Figure 10:</span> <strong>Figure 9.10:</strong> How to define success metrics to prioritize in post-merger.</p>
+        <p><strong>Figure 9.10:</strong> How to define success metrics to prioritize in post-merger.</p>
     </div>
 </div>
 
@@ -576,7 +576,7 @@ Establishing feedback loops is crucial for gathering insights from employees, cu
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-bDvK1ldH4dzdubiWrkOE-v1.png" >}}
-        <p><span class="fw-bold ">Figure 11:</span> <strong>Figure 9.10:</strong> Elements of feedbacks in post-merger integration.</p>
+        <p><strong>Figure 9.10:</strong> Elements of feedbacks in post-merger integration.</p>
     </div>
 </div>
 

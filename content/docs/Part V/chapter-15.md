@@ -3,8 +3,8 @@ weight: 1900
 title: "Chapter 15"
 description: "Benchmarking and Continuous Improvement"
 icon: "article"
-date: "2024-10-15T18:39:59.806442+07:00"
-lastmod: "2024-10-15T18:39:59.806457+07:00"
+date: "2024-10-19T16:11:32.383915+07:00"
+lastmod: "2024-10-19T16:11:32.383933+07:00"
 katex: true
 draft: false
 toc: true
@@ -12,9 +12,10 @@ toc: true
 {{% alert icon="💡" context="info" %}}
 <strong>"<em>The real value of mergers is unlocked through continuous improvement, where benchmarking, auditing, and knowledge management work in concert to refine and optimize the integration process, ensuring lasting success.</em>" — Mark Sirower, Global M&A Practice Leader, Deloitte.</strong>
 {{% /alert %}}
-<p style="text-align: justify;">
-<em>This chapter explores how companies can use benchmarking, post-merger audits, and lessons learned to drive continuous improvement and sustain success in mergers and acquisitions. It emphasizes the importance of setting clear performance benchmarks across financial, operational, market, and cultural domains and highlights the value of knowledge management systems in capturing insights for future M&A deals. By focusing on these critical areas, organizations can optimize their post-merger integration process and ensure long-term business success.</em>
-</p>
+
+{{% alert icon="📘" context="success" %}}
+<p style="text-align: justify;"><em>This chapter explores how companies can use benchmarking, post-merger audits, and lessons learned to drive continuous improvement and sustain success in mergers and acquisitions. It emphasizes the importance of setting clear performance benchmarks across financial, operational, market, and cultural domains and highlights the value of knowledge management systems in capturing insights for future M&A deals. By focusing on these critical areas, organizations can optimize their post-merger integration process and ensure long-term business success.</em></p>
+{{% /alert %}}
 
 ---
 # 15.1. Setting Performance Benchmarks
@@ -25,7 +26,7 @@ After a merger or acquisition, organizations face a challenging period of integr
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-TOLXkGYB1mQXxMq7FRHa-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 15.1</strong>: Key Components to Achieve Successful M&A Integration.</p>
+        <p><strong>Figure 15.1</strong>: Key Components to Achieve Successful M&A Integration.</p>
     </div>
 </div>
 
@@ -48,7 +49,7 @@ Once benchmarking identifies areas for improvement, continuous improvement metho
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-XmIaP6yEAdvzesejIK6k-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 15.2</strong>: Continuous Improvement Cycle.</p>
+        <p><strong>Figure 15.2</strong>: Continuous Improvement Cycle.</p>
     </div>
 </div>
 
@@ -89,7 +90,7 @@ From a strategic academic perspective, the process of setting benchmarks during 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-xZKYeWv2XAY3C9lfpDvn-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 15.3</strong>: Key Success Factors for Successful Post-Merger Integration.</p>
+        <p><strong>Figure 15.3</strong>: Key Success Factors for Successful Post-Merger Integration.</p>
     </div>
 </div>
 
@@ -142,7 +143,7 @@ In this section, the strategic importance of post-merger audits as a mechanism f
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-EILQ0wB4qHXbTCTcYUP8-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 15.4</strong>: Financial & Cultural Audit is the Focus of Post-Merger Integration.</p>
+        <p><strong>Figure 15.4</strong>: Financial & Cultural Audit is the Focus of Post-Merger Integration.</p>
     </div>
 </div>
 
@@ -203,7 +204,7 @@ Here, the focus shifts toward the strategic value of capturing and institutional
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-HELTj4Q7dWW5KbqVr8Ix-v1.png" >}}
-        <p><span class="fw-bold ">Figure 5:</span> <strong>Figure 15.4</strong>: Key Steps to Enhance M&A Success through Lesson Learned.</p>
+        <p><strong>Figure 15.4</strong>: Key Steps to Enhance M&A Success through Lesson Learned.</p>
     </div>
 </div>
 
@@ -234,7 +235,7 @@ Moreover, knowledge management in M&A helps foster a culture of continuous impro
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-zqyyZP3zBsVAJEMpKnWt-v1.png" >}}
-        <p><span class="fw-bold ">Figure 6:</span> <strong>Figure 15.6</strong>: Overview of Knowledge Management Process.</p>
+        <p><strong>Figure 15.5</strong>: Overview of Knowledge Management Process.</p>
     </div>
 </div>
 

@@ -3,8 +3,8 @@ weight: 2400
 title: "Chapter 20"
 description: "Sustainability and ESG Factors in M&A"
 icon: "article"
-date: "2024-10-15T18:39:59.834662+07:00"
-lastmod: "2024-10-15T18:39:59.834683+07:00"
+date: "2024-10-19T16:11:32.414282+07:00"
+lastmod: "2024-10-19T16:11:32.414299+07:00"
 katex: true
 draft: false
 toc: true
@@ -12,9 +12,10 @@ toc: true
 {{% alert icon="💡" context="info" %}}
 <strong>"<em>Incorporating sustainability and ESG into M&A is no longer optional; it’s essential for long-term value creation. Companies that embrace this shift will not only reduce risks but also unlock new growth opportunities in an increasingly conscious market.</em>" — Larry Fink, CEO, BlackRock.</strong>
 {{% /alert %}}
-<p style="text-align: justify;">
-<em>This chapter explores how sustainability and ESG factors are reshaping M&A strategy in today’s business environment. It discusses the role of ESG in evaluating acquisition targets, the impact of climate change policies on deal-making, and the importance of transparency in meeting stakeholder expectations. Companies that integrate ESG into their M&A strategy are better positioned to manage risks, meet regulatory demands, and create long-term value while driving positive social and environmental outcomes.</em>
-</p>
+
+{{% alert icon="📘" context="success" %}}
+<p style="text-align: justify;"><em>This chapter explores how sustainability and ESG factors are reshaping M&A strategy in today’s business environment. It discusses the role of ESG in evaluating acquisition targets, the impact of climate change policies on deal-making, and the importance of transparency in meeting stakeholder expectations. Companies that integrate ESG into their M&A strategy are better positioned to manage risks, meet regulatory demands, and create long-term value while driving positive social and environmental outcomes.</em></p>
+{{% /alert %}}
 
 ---
 # 20.1. Introduction
@@ -29,7 +30,7 @@ The growing prominence of ESG factors in M&A stems from heightened awareness of 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-4ccHqv0EQ7znZ1P7e0dP-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 20.1:</strong> Key elements of ESG in M&A.</p>
+        <p><strong>Figure 20.1:</strong> Key elements of ESG in M&A.</p>
     </div>
 </div>
 
@@ -64,7 +65,7 @@ From an academic perspective, the incorporation of ESG factors into M&A aligns w
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-JupsKYvrWoct7qh93jYQ-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 20.2:</strong> Elements of shareholder theory in M&A.</p>
+        <p><strong>Figure 20.2:</strong> Elements of shareholder theory in M&A.</p>
     </div>
 </div>
 
@@ -93,7 +94,7 @@ The process of incorporating ESG into M&A begins with the due diligence phase. T
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-FNYzOZtdA0pBnMfzKmHD-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 20.3:</strong> ESG integration in M&A lifecycle.</p>
+        <p><strong>Figure 20.3:</strong> ESG integration in M&A lifecycle.</p>
     </div>
 </div>
 
@@ -146,7 +147,7 @@ One of the most significant ways climate change policies affect M&A decisions is
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-0N5vX1LwyurWSiDbXZCK-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 20.4:</strong> M&A strategies due to climate change policy.</p>
+        <p><strong>Figure 20.4:</strong> M&A strategies due to climate change policy.</p>
     </div>
 </div>
 
@@ -203,7 +204,7 @@ One of the key drivers of this increased demand for ESG transparency is the grow
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-B3KvEnB2VXRDtgmiWnlf-v1.png" >}}
-        <p><span class="fw-bold ">Figure 5:</span> <strong>Figure 20.5:</strong> ESG transparency in M&A.</p>
+        <p><strong>Figure 20.5:</strong> ESG transparency in M&A.</p>
     </div>
 </div>
 

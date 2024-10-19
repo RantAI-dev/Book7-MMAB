@@ -3,8 +3,8 @@ weight: 1800
 title: "Chapter 14"
 description: "Measuring M&A Success"
 icon: "article"
-date: "2024-10-15T18:39:59.801172+07:00"
-lastmod: "2024-10-15T18:39:59.801189+07:00"
+date: "2024-10-19T16:11:32.378569+07:00"
+lastmod: "2024-10-19T16:11:32.378587+07:00"
 katex: true
 draft: false
 toc: true
@@ -12,9 +12,10 @@ toc: true
 {{% alert icon="💡" context="info" %}}
 <strong>"<em>Measuring M&A success goes beyond financial outcomes; it's about operational efficiency, market competitiveness, and the integration of people and culture. True success is found when all these elements align to create long-term value.</em>" — Dominic Barton, Former Global Managing Partner, McKinsey & Company.</strong>
 {{% /alert %}}
-<p style="text-align: justify;">
-<em>This chapter provides a detailed framework for measuring the success of mergers and acquisitions through a comprehensive set of metrics. Financial indicators like ROI and ROIC, operational metrics such as efficiency ratios and productivity, market-based measures like market share and customer retention, and cultural metrics like employee engagement and turnover rates are examined. By systematically assessing these metrics, companies can gauge whether the merger or acquisition is delivering on its strategic objectives and make informed decisions to ensure sustainable growth and competitive advantage.</em>
-</p>
+
+{{% alert icon="📘" context="success" %}}
+<p style="text-align: justify;"><em>This chapter provides a detailed framework for measuring the success of mergers and acquisitions through a comprehensive set of metrics. Financial indicators like ROI and ROIC, operational metrics such as efficiency ratios and productivity, market-based measures like market share and customer retention, and cultural metrics like employee engagement and turnover rates are examined. By systematically assessing these metrics, companies can gauge whether the merger or acquisition is delivering on its strategic objectives and make informed decisions to ensure sustainable growth and competitive advantage.</em></p>
+{{% /alert %}}
 
 ---
 # 14.1. Financial Metrics: ROI, ROIC and EPS
@@ -32,7 +33,7 @@ The interconnectedness of these metrics provides a comprehensive view of M&A suc
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-fmpQzmqf6gHtQgCqcvAj-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 14.1:</strong> Key Financial Metrics to Analyze M&A Success.</p>
+        <p><strong>Figure 14.1:</strong> Key Financial Metrics to Analyze M&A Success.</p>
     </div>
 </div>
 
@@ -53,7 +54,7 @@ Here we focus on operational metrics—specifically efficiency ratios and produc
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-YJmdKFdYLLgjQzyWENQA-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 14.2:</strong> Key Operational Metrics to Analyze M&A Success.</p>
+        <p><strong>Figure 14.2:</strong> Key Operational Metrics to Analyze M&A Success.</p>
     </div>
 </div>
 
@@ -114,7 +115,7 @@ We have to emphasize the importance of market metrics—specifically market shar
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-XyynGmSR6e8KB7sdqy0J-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 14.3:</strong> Key Market Metrics to Analyze M&A Success.</p>
+        <p><strong>Figure 14.3:</strong> Key Market Metrics to Analyze M&A Success.</p>
     </div>
 </div>
 
@@ -169,7 +170,7 @@ Furthermore, companies that excel in post-merger market share and customer reten
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-L2bGZJDQ6tbZvbcZkMVc-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 14.4:</strong> Key Components to Measure Post-Merger Success.</p>
+        <p><strong>Figure 14.4:</strong> Key Components to Measure Post-Merger Success.</p>
     </div>
 </div>
 
@@ -186,7 +187,7 @@ Here we delve into the critical role of cultural metrics—particularly employee
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-tq7qRmsAoDsHMDzFjEvE-v1.png" >}}
-        <p><span class="fw-bold ">Figure 5:</span> <strong>Figure 14.5:</strong> Key Steps to Achieve Successful M&A Integration.</p>
+        <p><strong>Figure 14.5:</strong> Key Steps to Achieve Successful M&A Integration.</p>
     </div>
 </div>
 
@@ -253,7 +254,7 @@ Best practices also involve leadership alignment and clear communication strateg
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-CYDh1IU6GfmtzKzC6yl9-v1.png" >}}
-        <p><span class="fw-bold ">Figure 6:</span> <strong>Figure 14.6:</strong> Key Cultural Metrics to Achieve M&A Success.</p>
+        <p><strong>Figure 14.6:</strong> Key Cultural Metrics to Achieve M&A Success.</p>
     </div>
 </div>
 

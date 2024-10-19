@@ -3,8 +3,8 @@ weight: 2200
 title: "Chapter 18"
 description: "Oil & Gas Industry M&A Strategies"
 icon: "article"
-date: "2024-10-15T18:39:59.821958+07:00"
-lastmod: "2024-10-15T18:39:59.821973+07:00"
+date: "2024-10-19T16:11:32.401107+07:00"
+lastmod: "2024-10-19T16:11:32.401126+07:00"
 katex: true
 draft: false
 toc: true
@@ -12,9 +12,10 @@ toc: true
 {{% alert icon="💡" context="info" %}}
 <strong>"<em>In the oil and gas industry, M&A success hinges on a deep understanding of asset valuations, regulatory risks, and market volatility. The key is not just in acquiring the right assets, but in integrating them safely and sustainably while managing geopolitical and environmental risks.</em>" — Amin Nasser, President and CEO, Saudi Aramco.</strong>
 {{% /alert %}}
-<p style="text-align: justify;">
-<em>This chapter provides an in-depth analysis of mergers and acquisitions in the oil and gas sector, addressing key challenges such as asset valuation, reserve estimation, environmental regulations, infrastructure integration, and managing energy market volatility. It emphasizes the need for strategic foresight and robust risk management to ensure the long-term success of M&A transactions in a highly regulated and volatile market. Companies that master these aspects are better positioned to achieve sustainable growth and operational efficiency.</em>
-</p>
+
+{{% alert icon="📘" context="success" %}}
+<p style="text-align: justify;"><em>This chapter provides an in-depth analysis of mergers and acquisitions in the oil and gas sector, addressing key challenges such as asset valuation, reserve estimation, environmental regulations, infrastructure integration, and managing energy market volatility. It emphasizes the need for strategic foresight and robust risk management to ensure the long-term success of M&A transactions in a highly regulated and volatile market. Companies that master these aspects are better positioned to achieve sustainable growth and operational efficiency.</em></p>
+{{% /alert %}}
 
 ---
 # 18.1. Introduction
@@ -25,7 +26,7 @@ The primary drivers of M&A activities in this industry are the need to acquire v
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-0dRWLNIlwjElsoW7rusR-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 18.1:</strong> Key strategies in M&A of oil and gas industry.</p>
+        <p><strong>Figure 18.1:</strong> Key strategies in M&A of oil and gas industry.</p>
     </div>
 </div>
 
@@ -78,7 +79,7 @@ Reserve estimation is central to this process. Oil and gas reserves are classifi
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-pOhu1aF0PYyQ01T0ejJ8-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 18.2:</strong> Key components of Asset Valuation in oil and gas industry.</p>
+        <p><strong>Figure 18.2:</strong> Key components of Asset Valuation in oil and gas industry.</p>
     </div>
 </div>
 
@@ -123,7 +124,7 @@ In an industry that is heavily regulated and subject to increasing scrutiny, M&A
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-ujyIOoQpL3QodAiMHLLI-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 18.3:</strong> Elements of environmental compliance in oil and gas M&A.</p>
+        <p><strong>Figure 18.3:</strong> Elements of environmental compliance in oil and gas M&A.</p>
     </div>
 </div>
 
@@ -172,7 +173,7 @@ The first challenge in infrastructure integration is ensuring compatibility betw
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-CrARC6VNT7LEPOgK0DkS-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 18.4:</strong> Operational success steps for infrastructure integration in oil and gas M&A.</p>
+        <p><strong>Figure 18.4:</strong> Operational success steps for infrastructure integration in oil and gas M&A.</p>
     </div>
 </div>
 

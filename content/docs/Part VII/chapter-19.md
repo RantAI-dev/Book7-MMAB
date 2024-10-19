@@ -3,8 +3,8 @@ weight: 2300
 title: "Chapter 19"
 description: "Digital Transformation and M&A"
 icon: "article"
-date: "2024-10-15T18:39:59.826384+07:00"
-lastmod: "2024-10-15T18:39:59.826401+07:00"
+date: "2024-10-19T16:11:32.405893+07:00"
+lastmod: "2024-10-19T16:11:32.405913+07:00"
 katex: true
 draft: false
 toc: true
@@ -12,9 +12,10 @@ toc: true
 {{% alert icon="💡" context="info" %}}
 <strong>"<em>The convergence of digital transformation and M&A is creating unparalleled opportunities for companies to scale faster, innovate more deeply, and achieve operational synergies that were once unimaginable. AI, automation, and remote integration are the future of deal-making.</em>" — Julie Sweet, CEO, Accenture.</strong>
 {{% /alert %}}
-<p style="text-align: justify;">
-<em>This chapter explores the critical role digital transformation plays in modern M&A processes. It highlights how AI and machine learning can enhance due diligence, how automation can streamline complex workflows, and how virtual integration techniques are reshaping the post-merger landscape. Companies that adopt these technologies and approaches can gain a significant edge in managing complex M&A transactions, ensuring successful integration, and driving long-term business growth in a digital-first world.</em>
-</p>
+
+{{% alert icon="📘" context="success" %}}
+<p style="text-align: justify;"><em>This chapter explores the critical role digital transformation plays in modern M&A processes. It highlights how AI and machine learning can enhance due diligence, how automation can streamline complex workflows, and how virtual integration techniques are reshaping the post-merger landscape. Companies that adopt these technologies and approaches can gain a significant edge in managing complex M&A transactions, ensuring successful integration, and driving long-term business growth in a digital-first world.</em></p>
+{{% /alert %}}
 
 ---
 # 19.1. Introduction
@@ -29,7 +30,7 @@ At the core of this alignment between digital transformation and M&A is the reco
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-ipCvcT9oCqbOjBTLdnel-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 19.1:</strong> Funnel of digital transformation through M&A.</p>
+        <p><strong>Figure 19.1:</strong> Funnel of digital transformation through M&A.</p>
     </div>
 </div>
 
@@ -82,7 +83,7 @@ One of the most impactful applications of AI and ML in due diligence is in contr
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-kzPTlw2nuCdGta5VRHbp-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 19.2:</strong> Traditional vs AI/ML based analysis in M&A process.</p>
+        <p><strong>Figure 19.2:</strong> Traditional vs AI/ML based analysis in M&A process.</p>
     </div>
 </div>
 
@@ -127,7 +128,7 @@ Automation, in the context of M&A, addresses several key challenges. One of the 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-l8bNPgNH3JBVnaadZuSW-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 19.3:</strong> Scopes of automation in M&A process.</p>
+        <p><strong>Figure 19.3:</strong> Scopes of automation in M&A process.</p>
     </div>
 </div>
 
@@ -176,7 +177,7 @@ Before the pandemic, M&A integration was largely dependent on face-to-face inter
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-rCbbV9tfWsjGaiFcsKEQ-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 19.4:</strong> Virtual Integration in M&A process.</p>
+        <p><strong>Figure 19.4:</strong> Virtual Integration in M&A process.</p>
     </div>
 </div>
 
@@ -187,7 +188,7 @@ Virtual data rooms are now a cornerstone of modern M&A transactions, facilitatin
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 90%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-qQBRAtnwisagNgSCCxRA-v1.png" >}}
-        <p><span class="fw-bold ">Figure 5:</span> <strong>Figure 19.5:</strong> Example of cloud-based VDR tool.</p>
+        <p><strong>Figure 19.5:</strong> Example of cloud-based VDR tool.</p>
     </div>
 </div>
 
@@ -206,7 +207,7 @@ While virtual integration techniques offer many advantages, they also present un
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 90%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-KxgudgyncTYB1BJ4Tkwu-v1.png" >}}
-        <p><span class="fw-bold ">Figure 6:</span> <strong>Figure 19.6:</strong> Team cohesion and alignment in VDR (eq. Sharepoint solution).</p>
+        <p><strong>Figure 19.6:</strong> Team cohesion and alignment in VDR (eq. Sharepoint solution).</p>
     </div>
 </div>
 

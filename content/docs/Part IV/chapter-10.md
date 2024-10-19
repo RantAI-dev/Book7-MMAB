@@ -3,16 +3,19 @@ weight: 1400
 title: "Chapter 10"
 description: "Identifying Sources of Value and Addressing Ex-Ante Challenges"
 icon: "article"
-date: "2024-10-15T18:39:59.782372+07:00"
-lastmod: "2024-10-15T18:39:59.782393+07:00"
+date: "2024-10-19T16:11:32.358307+07:00"
+lastmod: "2024-10-19T16:11:32.358326+07:00"
 katex: true
 draft: false
 toc: true
 ---
-> "Success in mergers and acquisitions is not just about combining two companies; it's about creating new opportunities for growth and innovation. Those who can identify and realize synergies early, while anticipating and addressing challenges, will be the ones who set themselves up for long-term success." – Michael J. DeLaMerced, M&A Expert, The New York Times.
-<p style="text-align: justify;">
-<em>This chapter delves into the critical components of successfully navigating mergers and acquisitions, emphasizing the importance of identifying value drivers and addressing ex-ante challenges. It explores synergy realization, anticipates post-merger challenges, and stresses the need for continuous monitoring and adjustment. These steps are vital to ensure company growth, profitability, and sustainability, ultimately turning M&A initiatives into significant business impacts.</em>
-</p>
+{{% alert icon="💡" context="info" %}}
+<strong>"<em>Success in mergers and acquisitions is not just about combining two companies; it's about creating new opportunities for growth and innovation. Those who can identify and realize synergies early, while anticipating and addressing challenges, will be the ones who set themselves up for long-term success.</em>" – Michael J. DeLaMerced, M&A Expert, The New York Times.</strong>
+{{% /alert %}}
+
+{{% alert icon="📘" context="success" %}}
+<p style="text-align: justify;"><em>This chapter delves into the critical components of successfully navigating mergers and acquisitions, emphasizing the importance of identifying value drivers and addressing ex-ante challenges. It explores synergy realization, anticipates post-merger challenges, and stresses the need for continuous monitoring and adjustment. These steps are vital to ensure company growth, profitability, and sustainability, ultimately turning M&A initiatives into significant business impacts.</em></p>
+{{% /alert %}}
 
 ---
 # 10.1. Identifying Sources of Value and Addressing Ex-Ante Challenges
@@ -23,7 +26,7 @@ In both academic theory and industry practice, identifying sources of value in m
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-AaNtn1pOKFyH1cDMSFTo-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 10.1:</strong> Landscape of source of values in M&A.</p>
+        <p><strong>Figure 10.1:</strong> Landscape of source of values in M&A.</p>
     </div>
 </div>
 
@@ -64,7 +67,7 @@ Synergies are at the heart of most mergers and acquisitions (M&A), serving as th
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-zSHTo1BJmc8eNCxBPLGt-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 10.2:</strong> Complexity of synergy realization.</p>
+        <p><strong>Figure 10.2:</strong> Complexity of synergy realization.</p>
     </div>
 </div>
 
@@ -109,7 +112,7 @@ The post-merger integration (PMI) phase is widely recognized in both academic li
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-pG2k0BcScIIqY95LSucs-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 10.3:</strong> Safeguarding value in post-merger integration.</p>
+        <p><strong>Figure 10.3:</strong> Safeguarding value in post-merger integration.</p>
     </div>
 </div>
 
@@ -154,7 +157,7 @@ Mergers and acquisitions (M&A) are not simply transactional events but represent
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-CfCzQiG8kkZNEjDROpoN-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 10.3:</strong> Funnel for long-term success in M&A.</p>
+        <p><strong>Figure 10.3:</strong> Funnel for long-term success in M&A.</p>
     </div>
 </div>
 

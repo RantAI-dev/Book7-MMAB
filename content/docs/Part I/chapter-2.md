@@ -3,8 +3,8 @@ weight: 600
 title: "Chapter 2"
 description: "Strategic Rationale for M&A"
 icon: "article"
-date: "2024-10-15T18:39:59.831400+07:00"
-lastmod: "2024-10-15T18:39:59.831420+07:00"
+date: "2024-10-19T16:11:32.411069+07:00"
+lastmod: "2024-10-19T16:11:32.411087+07:00"
 katex: true
 draft: false
 toc: true
@@ -12,9 +12,10 @@ toc: true
 {{% alert icon="💡" context="info" %}}
 <strong>"<em>The best M&A deals are not just about growth; they are about transforming the competitive landscape. A well-executed acquisition allows a company to reimagine its future, create synergies, and strengthen its market position for years to come.</em>" — Indra Nooyi, Former CEO of PepsiCo</strong>
 {{% /alert %}}
-<p style="text-align: justify;">
-<em>This chapter explores the core strategic motivations behind mergers and acquisitions, with a focus on growth and expansion strategies, synergy realization, competitive positioning, and diversification. It delves into how companies use M&A to scale their operations, reduce costs, improve revenues, and manage risks in a dynamic market. By understanding these strategic rationales, businesses can leverage M&A to achieve sustained growth, build market share, and create long-term value.</em>
-</p>
+
+{{% alert icon="📘" context="success" %}}
+<p style="text-align: justify;"><em>This chapter explores the core strategic motivations behind mergers and acquisitions, with a focus on growth and expansion strategies, synergy realization, competitive positioning, and diversification. It delves into how companies use M&A to scale their operations, reduce costs, improve revenues, and manage risks in a dynamic market. By understanding these strategic rationales, businesses can leverage M&A to achieve sustained growth, build market share, and create long-term value.</em></p>
+{{% /alert %}}
 
 ---
 # 2.1. Strategic Rationale
@@ -25,7 +26,7 @@ Mergers and Acquisitions (M&A) represent a critical strategic tool for companies
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-KTdkKfgqcg3TNlE9qNyx-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 2.1:</strong> Target Prioritization of a Merger & Acquisitions.</p>
+        <p><strong>Figure 2.1:</strong> Target Prioritization of a Merger & Acquisitions.</p>
     </div>
 </div>
 
@@ -55,7 +56,7 @@ In practical terms, successful growth through M&A requires a clearly defined int
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-qcRUnez2xpGBo69XTHrk-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 2.2:</strong> Key Components of Successful M&A Growth.</p>
+        <p><strong>Figure 2.2:</strong> Key Components of Successful M&A Growth.</p>
     </div>
 </div>
 
@@ -80,7 +81,7 @@ Revenue synergies, on the other hand, are realized through opportunities such as
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-stJfkoCvqCB6LnlxTHef-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 2.3:</strong> Key Synergy in Successful M&A.</p>
+        <p><strong>Figure 2.3:</strong> Key Synergy in Successful M&A.</p>
     </div>
 </div>
 
@@ -103,7 +104,7 @@ The practical realization of synergies requires effective post-merger integratio
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-F5AL8LWM5x5Nxpo2YfZf-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 2.4:</strong> Practical Approach in Balancing Synergies in M&A.</p>
+        <p><strong>Figure 2.4:</strong> Practical Approach in Balancing Synergies in M&A.</p>
     </div>
 </div>
 
@@ -120,7 +121,7 @@ M&A is often a key component of a company’s strategy to strengthen its competi
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-nQIbbX66YgSRnlGr9ZN6-v1.png" >}}
-        <p><span class="fw-bold ">Figure 5:</span> <strong>Figure 2.5:</strong> Strategic Indicators for M&A Competitive Advantage.</p>
+        <p><strong>Figure 2.5:</strong> Strategic Indicators for M&A Competitive Advantage.</p>
     </div>
 </div>
 
@@ -146,7 +147,7 @@ To realize the benefits of improved competitive positioning, companies need to i
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-WkixGRUSFYdr78mc6g3N-v1.png" >}}
-        <p><span class="fw-bold ">Figure 6:</span> <strong>Figure 2.6:</strong> Seamless Integration for Enhanced Competitive Positioning.</p>
+        <p><strong>Figure 2.6:</strong> Seamless Integration for Enhanced Competitive Positioning.</p>
     </div>
 </div>
 
@@ -163,7 +164,7 @@ Diversification is a common rationale for M&A, especially for companies looking 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 80%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-s9GAWZhq5GDIdnfsBvmu-v1.png" >}}
-        <p><span class="fw-bold ">Figure 7:</span> <strong>Figure 2.7:</strong> An Illustration of the Thought Process Behind a Diversification Strategy.</p>
+        <p><strong>Figure 2.7:</strong> An Illustration of the Thought Process Behind a Diversification Strategy.</p>
     </div>
 </div>
 
@@ -189,7 +190,7 @@ In practice, diversification through M&A requires effective management of dispar
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 90%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-5LGMEPFn13G2l914gE5e-v1.png" >}}
-        <p><span class="fw-bold ">Figure 8:</span> <strong>Figure 2.8:</strong> A Sample of Challenges of Diversifying Through M&A.</p>
+        <p><strong>Figure 2.8:</strong> A Sample of Challenges of Diversifying Through M&A.</p>
     </div>
 </div>
 

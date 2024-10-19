@@ -3,8 +3,8 @@ weight: 1200
 title: "Chapter 8"
 description: "Success Stories and Key Takeaways"
 icon: "article"
-date: "2024-10-15T18:39:59.904199+07:00"
-lastmod: "2024-10-15T18:39:59.904215+07:00"
+date: "2024-10-19T16:11:32.471311+07:00"
+lastmod: "2024-10-19T16:11:32.471329+07:00"
 katex: true
 draft: false
 toc: true
@@ -26,7 +26,7 @@ In any merger or acquisition (M&A), the overarching goal is to create value, whe
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-ypvScSD6tHdLCekYdPN0-v1.webp" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 8.1:</strong> Disney 100B M&A History.</p>
+        <p><strong>Figure 8.1:</strong> Disney 100B M&A History.</p>
     </div>
 </div>
 
@@ -45,7 +45,7 @@ Cultural alignment is one of the most critical, yet often overlooked, factors in
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-lIGzIcKJq1OOeAH8I0kC-v1.avif" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 8.2:</strong> IG active users before and after FB acquisition.</p>
+        <p><strong>Figure 8.2:</strong> IG active users before and after FB acquisition.</p>
     </div>
 </div>
 
@@ -90,7 +90,7 @@ Mergers and acquisitions (M&A) are inherently complex processes that require car
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-BdegiTMFl0UF8wXfcnLh-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 8.3:</strong> Landscape of success factors in M&A.</p>
+        <p><strong>Figure 8.3:</strong> Landscape of success factors in M&A.</p>
     </div>
 </div>
 
@@ -155,7 +155,7 @@ Leadership is one of the most critical determinants of success in mergers and ac
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-IdrUlBIrF2BnXR0krRrV-v1.png" >}}
-        <p><span class="fw-bold ">Figure 4:</span> <strong>Figure 8.4:</strong> Key elements of effective leadership and decision making.</p>
+        <p><strong>Figure 8.4:</strong> Key elements of effective leadership and decision making.</p>
     </div>
 </div>
 
@@ -220,7 +220,7 @@ In mergers and acquisitions (M&A), the ultimate goal is to create value by combi
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-Z3GbVvY0nnbURRm2Zobm-v1.png" >}}
-        <p><span class="fw-bold ">Figure 5:</span> None</p>
+        <p><strong>Figure 8.5:</strong> Leveraging Complementary Strengths in Merger and Acquisition</p>
     </div>
 </div>
 
@@ -285,7 +285,7 @@ Case studies of successful mergers and acquisitions (M&A) serve as invaluable le
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-Xhw5VHAW9Ypn5GCyubaH-v1.jpeg" >}}
-        <p><span class="fw-bold ">Figure 6:</span> <strong>Figure 8.6:</strong> Microsoft and LinkedIn case study.</p>
+        <p><strong>Figure 8.6:</strong> Microsoft and LinkedIn case study.</p>
     </div>
 </div>
 
@@ -299,7 +299,7 @@ In 2016, Microsoft’s $26.2 billion acquisition of LinkedIn stood out as one of
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 50%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-86edH6uGlSCFaSqpjVMP-v1.jpeg" >}}
-        <p><span class="fw-bold ">Figure 7:</span> <strong>Figure 8.7:</strong> Exxon and Mobil case study.</p>
+        <p><strong>Figure 8.7:</strong> Exxon and Mobil case study.</p>
     </div>
 </div>
 
@@ -313,7 +313,7 @@ The energy industry has long been characterized by capital-intensive operations 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-bzeu9V7cAMfLnVNSoegd-v1.jpeg" >}}
-        <p><span class="fw-bold ">Figure 8:</span> <strong>Figure 8.8:</strong> Facebook and WhatsApp case study.</p>
+        <p><strong>Figure 8.8:</strong> Facebook and WhatsApp case study.</p>
     </div>
 </div>
 
@@ -345,7 +345,7 @@ The digital sector, driven by rapid innovation, technological advancements, and 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-55ewhpHi8crocgc71Yen-v1.png" >}}
-        <p><span class="fw-bold ">Figure 9:</span> <strong>Figure 8.9:</strong> Key aspects of successful M&A in digital industry.</p>
+        <p><strong>Figure 8.9:</strong> Key aspects of successful M&A in digital industry.</p>
     </div>
 </div>
 
@@ -418,7 +418,7 @@ The oil and gas industry is one of the most capital-intensive sectors globally, 
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 100%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-vDZVoTRxiYepxrtBTFZm-v1.png" >}}
-        <p><span class="fw-bold ">Figure 10:</span> <strong>Figure 8.10:</strong> Key aspects of successful M&A in oil and gas industry.</p>
+        <p><strong>Figure 8.10:</strong> Key aspects of successful M&A in oil and gas industry.</p>
     </div>
 </div>
 

@@ -3,8 +3,8 @@ weight: 500
 title: "Chapter 1"
 description: "'Understanding M&A: An Overview'"
 icon: "article"
-date: "2024-10-15T18:39:59.779307+07:00"
-lastmod: "2024-10-15T18:39:59.779318+07:00"
+date: "2024-10-19T16:11:32.355048+07:00"
+lastmod: "2024-10-19T16:11:32.355073+07:00"
 katex: true
 draft: false
 toc: true
@@ -12,9 +12,10 @@ toc: true
 {{% alert icon="💡" context="info" %}}
 <strong>"<em>In today's fast-moving markets, mergers and acquisitions are no longer just about consolidation, but about reinvention. To succeed, companies must approach M&A with a strategic lens, focusing on long-term value creation through innovation, agility, and adaptability.</em>" — Jeffrey Immelt, Former CEO of General Electric</strong>
 {{% /alert %}}
-<p style="text-align: justify;">
-<em>This chapter introduces the fundamental concepts of Mergers and Acquisitions (M&A), offering a comprehensive overview of the definitions, terminology, and historical perspective. It delves into the different types of M&A transactions, including horizontal, vertical, and conglomerate deals, and the strategic motivations behind them. Furthermore, it examines how economic shifts, political instability, and technological disruptions add uncertainty to M&A activities. A global perspective is provided by analyzing market trends and dynamics, helping readers understand the evolving nature of M&A in a rapidly changing business environment.</em>
-</p>
+
+{{% alert icon="📘" context="success" %}}
+<p style="text-align: justify;"><em>This chapter introduces the fundamental concepts of Mergers and Acquisitions (M&A), offering a comprehensive overview of the definitions, terminology, and historical perspective. It delves into the different types of M&A transactions, including horizontal, vertical, and conglomerate deals, and the strategic motivations behind them. Furthermore, it examines how economic shifts, political instability, and technological disruptions add uncertainty to M&A activities. A global perspective is provided by analyzing market trends and dynamics, helping readers understand the evolving nature of M&A in a rapidly changing business environment.</em></p>
+{{% /alert %}}
 
 # 1.1. Introduction to M&A
 <p style="text-align: justify;">
@@ -36,7 +37,7 @@ However, while the potential for growth through M&A is significant, it also come
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 70%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-CRFFC4Xoq6qp23pWFBUr-v1.png" >}}
-        <p><span class="fw-bold ">Figure 1:</span> <strong>Figure 1.1:</strong> The funnel of M&A process.</p>
+        <p><strong>Figure 1.1:</strong> The funnel of M&A process.</p>
     </div>
 </div>
 
@@ -73,7 +74,7 @@ Analyzing the historical evolution of M&A provides valuable insights into the mo
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-lggzcIRcRrLzQga1Pl7t-v1.png" >}}
-        <p><span class="fw-bold ">Figure 2:</span> <strong>Figure 1.2:</strong> A case study of M&A evolution in US.</p>
+        <p><strong>Figure 1.2:</strong> A case study of M&A evolution in US.</p>
     </div>
 </div>
 
@@ -97,7 +98,7 @@ M&A transactions are highly influenced by macroeconomic trends, political change
 <div class="row justify-content-center">
     <div class="rounded p-4 position-relative overflow-hidden border-1 text-center" style="width: 60%">
         {{< figure src="/images/5WeQ1hZHBs9V6t4cB9cO-ko8zMpoI05h8ueYs4rAB-v1.png" >}}
-        <p><span class="fw-bold ">Figure 3:</span> <strong>Figure 1.3:</strong> Key influential factors of M&A transactions.</p>
+        <p><strong>Figure 1.3:</strong> Key influential factors of M&A transactions.</p>
     </div>
 </div>
 
