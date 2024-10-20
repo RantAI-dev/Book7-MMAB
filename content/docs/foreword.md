@@ -9,7 +9,6 @@ katex: true
 draft: false
 toc: true
 ---
-{{% alert icon="💡" context="info" %}}<strong>"<em>Mergers and acquisitions are not just business deals—they are transformative strategies that shape industries, drive innovation, and define the future.</em>" — Unknown</strong>{{% /alert %}}
 
 {{% alert icon="📖" context="success" %}}
 
