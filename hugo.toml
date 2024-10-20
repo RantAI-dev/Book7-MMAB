@@ -176,5 +176,5 @@ title = 'Mastering Mergers and Acquisitions via Industry Best Practices'
 [services]
   [services.disqus]
     shortname = 'rantai'
-# [services.googleAnalytics]
-#   ID = 'G-6SLNTRWKJ9'
+ [services.googleAnalytics]
+   ID = 'G-6SLNTRWKJ9'
