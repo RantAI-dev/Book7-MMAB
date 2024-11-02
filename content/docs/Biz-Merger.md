@@ -241,7 +241,7 @@ toc: true
 
 {{% alert icon="🚀" context="success" %}}
 <p style="text-align: justify;">
-RantAI is a forward-thinking Indonesian tech startup focused on revolutionizing the technology landscape, with a particular emphasis on Rust programming and its applications in business and industry. Originally founded through collaborations between Telkom University and the University of Indonesia’s Data Science Center, RantAI began its journey by specializing in scientific computation publishing. Today, RantAI’s focus is expanding to offer consulting services on Rust-based solutions, providing businesses with cutting-edge, technology-driven strategies to improve efficiency and innovation.
+RantAI is a forward-thinking Indonesian tech startup focused on revolutionizing the technology landscape, with a particular emphasis on Rust programming and its applications in business and industry. Originally founded through collaborations between Telkom University and the University of Indonesia’s Data Science Center, RantAI began its journey by specializing in scientific computation publishing. As a premier System Integrator (SI), we address complex scientific challenges through advanced Machine Learning, Deep Learning, Agent-Based Modeling, and AI Chip Development based on the RISC-V architecture.
 </p>
 
 <p style="text-align: justify;">
