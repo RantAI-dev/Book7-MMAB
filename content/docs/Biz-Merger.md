@@ -98,13 +98,9 @@ toc: true
         <div class="card p-4 text-center collaboration-card">
             <h4 class="mb-3" style="color: #FF5722;">OUR PARTNERS 🤝</h4>
             <p class="card-text text-center">
-                We are honored to collaborate with SBM ITB and Inoversi in the creation of this book. This partnership combines academic excellence with industry expertise to provide a resource that is both theoretically robust and practically applicable.
+                We are honored to collaborate with Inoversi in the creation of this book. This partnership combines academic excellence with industry expertise to provide a resource that is both theoretically robust and practically applicable.
             </p>
             <div class="d-flex justify-content-center mb-3 flex-wrap">
-                <a href="https://www.sbm-itb.ac.id/" target="_blank" class="btn btn-lg btn-outline-collaboration m-2 collaboration-btn">
-                    <img src="/images/sbm-logo.png" alt="SBM ITB Logo" class="collaboration-logo-image">
-                    <span class="collaboration-btn-text">SBM ITB</span>
-                </a>
                 <a href="https:/inoversi.id/" target="_blank" class="btn btn-lg btn-outline-collaboration m-2 collaboration-btn">
                     <img src="/images/inoversi-logo.png" alt="Inoversi Logo" class="collaboration-logo-image">
                     <span class="collaboration-btn-text">Inoversi</span>
