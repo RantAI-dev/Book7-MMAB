@@ -34,11 +34,11 @@ toc: true
                 Support our mission by purchasing the companion book at your preferred platform.
             </p>
             <div class="d-flex justify-content-center mb-3 flex-wrap">
-                <a href="https://www.amazon.com/dp/B0DRGLFKSP" class="btn btn-lg btn-outline-support m-2 support-btn">
+                <a href="https://www.amazon.com/dp/B0DSCS991G" class="btn btn-lg btn-outline-support m-2 support-btn">
                     <img src="../../images/kindle.png" alt="Amazon Logo" class="support-logo-image">
                     <span class="support-btn-text">Buy on Amazon</span>
                 </a>
-                <a href="https://play.google.com/store/books/details?id=R246EQAAQBAJ" class="btn btn-lg btn-outline-support m-2 support-btn">
+                <a href="https://play.google.com/store/books/details?id=qqY8EQAAQBAJ" class="btn btn-lg btn-outline-support m-2 support-btn">
                     <img src="../../images/GBooks.png" alt="Google Books Logo" class="support-logo-image">
                     <span class="support-btn-text">Buy on Google Books</span>
                 </a>
@@ -101,7 +101,7 @@ toc: true
                 We are honored to collaborate with Inoversi in the creation of this book. This partnership combines academic excellence with industry expertise to provide a resource that is both theoretically robust and practically applicable.
             </p>
             <div class="d-flex justify-content-center mb-3 flex-wrap">
-                <a href="https:/inoversi.id/" target="_blank" class="btn btn-lg btn-outline-collaboration m-2 collaboration-btn">
+                <a href="https://inoversi.id/" target="_blank" class="btn btn-lg btn-outline-collaboration m-2 collaboration-btn">
                     <img src="/images/inoversi-logo.png" alt="Inoversi Logo" class="collaboration-logo-image">
                     <span class="collaboration-btn-text">Inoversi</span>
                 </a>
@@ -241,7 +241,7 @@ RantAI is a forward-thinking Indonesian tech startup focused on revolutionizing 
 </p>
 
 <p style="text-align: justify;">
-Currently collaborating with institutions like SBM ITB (School of Business and Management ITB) and Inoversi, RantAI is positioned at the intersection of technology and business transformation. Inoversi, founded in 2024, is a premier training organization dedicated to fostering innovation in business. It offers a wide range of services, including interactive webinars, high-quality e-books, and e-learning platforms that enhance the learning experience for professionals. With customized training, public workshops, and expert-led consulting services, Inoversi aims to empower businesses with the knowledge and tools needed to thrive in today’s competitive landscape.
+Currently collaborating with institutions like Inoversi and ISCEA, RantAI is positioned at the intersection of technology and business transformation. Inoversi, founded in 2024, is a premier training organization dedicated to fostering innovation in business. It offers a wide range of services, including interactive webinars, high-quality e-books, and e-learning platforms that enhance the learning experience for professionals. With customized training, public workshops, and expert-led consulting services, Inoversi aims to empower businesses with the knowledge and tools needed to thrive in today’s competitive landscape.
 </p>
 
 <p style="text-align: justify;">
